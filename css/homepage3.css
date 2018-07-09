@@ -1,0 +1,111 @@
+﻿<style>
+// ====================== HOMEPAGE =======================//
+
+.ui-tabs-nav {
+	
+}
+h1, h2, h3, h4, h5 {
+	font-weight: bold !important;
+	font-family: "Segoe UI","Segoe",Tahoma,Helvetica,Arial,sans-serif !important;
+}
+.contentcontainer {
+	padding: 10px;
+	max-height: 600px;
+	overflow-y: scroll;
+	overflow-x: hidden;
+}
+.contentcontainer:before, #MSOZoneCell_WebPartWPQ2:before {
+	padding: 20px;
+	width: 100%;
+	background-color: #D0E4F7;
+	display: block;
+	margin-top: -10px;
+	margin-left: -10px;
+	margin-bottom: 10px;
+	font-size: 13px;
+	text-transform: uppercase;
+	color: #004990;
+}
+.HomepageColumnTitle{	
+	float: left;
+	width: 97%;
+	margin-bottom: 0px;
+	background-color: #D0E4F7;
+	font-family: "Segoe UI","Segoe",Tahoma,Helvetica,Arial,sans-serif;
+    font-size: 13px;
+    text-transform: uppercase;
+    color: #004990;
+   	padding: 10px;
+	margin-bottom: 0px;
+	}
+.CompanyMessage{	
+	float: left;
+	width: 96.5%;
+	margin-bottom: 0px;
+	background-color: #D0E4F7;
+	font-family: "Segoe UI","Segoe",Tahoma,Helvetica,Arial,sans-serif;
+    font-size: 13px;
+    text-transform: uppercase;
+    color: #004990;
+   	padding: 10px;
+	margin-bottom: 0px;
+
+	}
+.SocialNews{	
+	float: left;
+	width: 93%;
+	margin-bottom: 0px;
+	background-color: #D0E4F7;
+	font-family: "Segoe UI","Segoe",Tahoma,Helvetica,Arial,sans-serif;
+    font-size: 13px;
+    text-transform: uppercase;
+    color: #004990;
+   	padding: 10px;	
+	margin-bottom: 0px;
+	}
+
+.ui-tabs-nav {
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+}
+.ui-tabs-nav li {
+	float: left;
+	padding: 10px;
+	width: 46%;
+	margin-bottom: 00px;
+	background-color: #D0E4F7;
+}
+.ui-tabs-nav .ui-state-active {
+	background-color: #004990;
+}
+.ui-tabs-nav .ui-state-active a {
+	color: #fff;
+}
+.Articlecontainer {
+	padding: 10px;
+/* aa*/ 	
+	max-height: 600px;
+	overflow-y: scroll;
+	overflow-x: hidden;
+	margin-right:5px;
+
+}
+.ms-core-listMenu-separatorLine, #WebPartWPQ2_ChromeTitle {
+	display: none;
+}
+
+.socialnewsitem .imagecontainer
+{
+	max-width:350px;
+}
+
+/* hide the content query webpart which has the company news link */
+#MSOZoneCell_WebPartWPQ4 .link-item
+{
+/*	display:none;*/
+}
+
+#div_28bc6024-667a-4169-a086-6336e06d99ec{
+	margin-top:-17px !important;
+}

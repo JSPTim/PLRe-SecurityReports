@@ -1,0 +1,858 @@
+row,item,kind,via,role,type,user
+0,Applications/In-House/FREDA,Folder,Direct,Editor,User, Jaz Thomson
+1,Applications/In-House/FREDA,Folder,Direct,Administrator,User, Mark Davies
+2,Applications/In-House/FREDA,Folder,Direct,Editor,Domain Group (or user),c:0+.w|s-1-5-21-1363303857-1279047675-2850138303-3739
+3,FredaShare,Library,Direct,Guest,User, northwaveVPNuser
+4,FredaShare,Library,Direct,Guest,Domain Group (or user),c:0(.s|true
+5,FredaShare,Library,Direct,Guest,User, David Smith
+6,FredaShare,Library,Direct,Guest,User, Andrew Wild
+7,FredaShare,Library,Direct,Guest,User, Neil Ryder
+8,FredaShare,Library,Direct,Administrator Guest,User, Jaz Thomson
+9,FredaShare,Library,Direct,Guest,User, Kristina Staveckaite
+10,FredaShare,Library,Direct,Guest,User, Nicholas Bryant
+11,FredaShare,Library,Direct,Guest,User, Mark Davies
+12,FredaShare,Library,Direct,Guest,User, Chris Skinner
+13,FredaShare,Library,Direct,Guest,User, Rob Guy
+14,FredaShare,Library,Direct,Guest,User, Chris Shearing
+15,FredaShare,Library,Direct,Guest,User, Dan Roots
+16,FredaShare,Library,Direct,Guest,User, Jayson Cox
+17,FredaShare,Library,Direct,Editor Guest,User, Earshad Rahim
+18,FredaShare,Library,Direct,Guest,User, Daniel Walsh
+19,FredaShare,Library,Direct,Contributor Guest,User, Chris Humphris
+20,FredaShare,Library,Direct,Guest,User, Mui Tze Tan
+21,FredaShare,Library,Direct,Guest,User, Rhys Faulkner
+22,FredaShare,Library,Direct,Contributor Guest,User, Akta Savla
+23,FredaShare,Library,Direct,Contributor Guest,SharePoint Group, DCIT Owners
+24,FredaShare,Library,Direct,Contributor Guest,SharePoint Group, DCIT Members
+25,FredaShare,Library,Direct,Contributor Guest,SharePoint Group, DCIT Visitors
+26,FredaShare,Library,Direct,Contributor Guest,User, Andrew Squires
+27,FredaShare,Library,Direct,Guest,User, Kok G Ng
+28,FredaShare,Library,Direct,Contributor Guest,User, Aidan Fee
+29,FredaShare,Library,Direct,Contributor Guest,User, Katy Gilligan
+30,FredaShare,Library,Direct,Guest,User, Tony Tong
+31,FredaShare,Library,Direct,Guest,User, Maria Gregorio
+32,FredaShare,Library,Direct,Contributor Guest,User, Yoke Yin Lee
+33,FredaShare,Library,Direct,Contributor Guest,User, David Smart
+34,FredaShare,Library,Direct,Contributor Guest,User, Mark Rogers
+35,FredaShare,Library,Direct,Contributor Guest,User, Brendan Kwok
+36,FredaShare,Library,Direct,Contributor Guest,User, Monica Kemp
+37,FredaShare,Library,Direct,Guest,User, Leon Chan
+38,FredaShare,Library,Direct,Contributor Guest,User, Danny Kong
+39,FredaShare,Library,Direct,Administrator,SharePoint Group, x_ITAdmin
+40,FredaShare,Library,Direct,Contributor Guest,User, Anita Reedy
+41,FredaShare,Library,Direct,Contributor Guest,User, Mary Gaughan
+42,FredaShare,Library,Direct,Guest,Domain Group (or user),c:0+.w|s-1-5-21-1363303857-1279047675-2850138303-3739
+43,FredaShare,Library,Direct,Contributor Guest,User, Li Teng Tan
+44,FredaShare,Library,Direct,Contributor Guest,User, Jack McGinty
+45,FredaShare,Library,Direct,Contributor Guest,User, Louis Pasigan
+46,FredaShare,Library,Direct,Contributor Guest,User, Brandon Kobayashi
+47,FredaShare,Library,Direct,Guest,User, Alvin Arumugam
+48,FredaShare,Library,Direct,Guest,User, Ted Cho
+49,FredaShare,Library,Direct,Guest,SharePoint Group, Intra_Everyone
+50,FredaShare,Library,Direct,Guest,User, Bareen Charitra
+51,FredaShare,Library,Direct,Contributor Guest,User, Paul O'Dwyer
+52,FredaShare,Library,Direct,Contributor Guest,User, Aditi Chopra
+53,FredaShare,Library,Direct,Guest,User, Phil Wood
+54,FredaShare,Library,Direct,Contributor Guest,User, Brian Cregan
+55,FredaShare/Release 6 Stage 3/Project documents/FREDA Release 6 Features V3.docx,Document,Direct,Guest,User, northwaveVPNuser
+56,FredaShare/Release 6 Stage 3/Project documents/FREDA Release 6 Features V3.docx,Document,Direct,Guest,Domain Group (or user),c:0(.s|true
+57,FredaShare/Release 6 Stage 3/Project documents/FREDA Release 6 Features V3.docx,Document,Direct,Guest,User, David Smith
+58,FredaShare/Release 6 Stage 3/Project documents/FREDA Release 6 Features V3.docx,Document,Direct,Guest,User, Andrew Wild
+59,FredaShare/Release 6 Stage 3/Project documents/FREDA Release 6 Features V3.docx,Document,Direct,Guest,User, Neil Ryder
+60,FredaShare/Release 6 Stage 3/Project documents/FREDA Release 6 Features V3.docx,Document,Direct,Administrator Guest,User, Jaz Thomson
+61,FredaShare/Release 6 Stage 3/Project documents/FREDA Release 6 Features V3.docx,Document,Direct,Guest,User, Kristina Staveckaite
+62,FredaShare/Release 6 Stage 3/Project documents/FREDA Release 6 Features V3.docx,Document,Direct,Guest,User, Nicholas Bryant
+63,FredaShare/Release 6 Stage 3/Project documents/FREDA Release 6 Features V3.docx,Document,Direct,Guest,User, Mark Davies
+64,FredaShare/Release 6 Stage 3/Project documents/FREDA Release 6 Features V3.docx,Document,Direct,Guest,User, Chris Skinner
+65,FredaShare/Release 6 Stage 3/Project documents/FREDA Release 6 Features V3.docx,Document,Direct,Guest,User, Rob Guy
+66,FredaShare/Release 6 Stage 3/Project documents/FREDA Release 6 Features V3.docx,Document,Direct,Guest,User, Chris Shearing
+67,FredaShare/Release 6 Stage 3/Project documents/FREDA Release 6 Features V3.docx,Document,Direct,Guest,User, Dan Roots
+68,FredaShare/Release 6 Stage 3/Project documents/FREDA Release 6 Features V3.docx,Document,Direct,Guest,User, Jayson Cox
+69,FredaShare/Release 6 Stage 3/Project documents/FREDA Release 6 Features V3.docx,Document,Direct,Contributor Guest,User, Earshad Rahim
+70,FredaShare/Release 6 Stage 3/Project documents/FREDA Release 6 Features V3.docx,Document,Direct,Guest,User, Daniel Walsh
+71,FredaShare/Release 6 Stage 3/Project documents/FREDA Release 6 Features V3.docx,Document,Direct,Contributor Guest,User, Chris Humphris
+72,FredaShare/Release 6 Stage 3/Project documents/FREDA Release 6 Features V3.docx,Document,Direct,Contributor Guest,User, Mui Tze Tan
+73,FredaShare/Release 6 Stage 3/Project documents/FREDA Release 6 Features V3.docx,Document,Direct,Guest,User, Rhys Faulkner
+74,FredaShare/Release 6 Stage 3/Project documents/FREDA Release 6 Features V3.docx,Document,Direct,Contributor Guest,User, Akta Savla
+75,FredaShare/Release 6 Stage 3/Project documents/FREDA Release 6 Features V3.docx,Document,Direct,Contributor Guest,SharePoint Group, DCIT Owners
+76,FredaShare/Release 6 Stage 3/Project documents/FREDA Release 6 Features V3.docx,Document,Direct,Contributor Guest,SharePoint Group, DCIT Members
+77,FredaShare/Release 6 Stage 3/Project documents/FREDA Release 6 Features V3.docx,Document,Direct,Contributor Guest,SharePoint Group, DCIT Visitors
+78,FredaShare/Release 6 Stage 3/Project documents/FREDA Release 6 Features V3.docx,Document,Direct,Contributor Guest,User, Andrew Squires
+79,FredaShare/Release 6 Stage 3/Project documents/FREDA Release 6 Features V3.docx,Document,Direct,Contributor Guest,User, Kok G Ng
+80,FredaShare/Release 6 Stage 3/Project documents/FREDA Release 6 Features V3.docx,Document,Direct,Contributor Guest,User, Aidan Fee
+81,FredaShare/Release 6 Stage 3/Project documents/FREDA Release 6 Features V3.docx,Document,Direct,Contributor,User, Katy Gilligan
+82,FredaShare/Release 6 Stage 3/Project documents/FREDA Release 6 Features V3.docx,Document,Direct,Contributor Guest,User, Tony Tong
+83,FredaShare/Release 6 Stage 3/Project documents/FREDA Release 6 Features V3.docx,Document,Direct,Contributor Guest,User, Maria Gregorio
+84,FredaShare/Release 6 Stage 3/Project documents/FREDA Release 6 Features V3.docx,Document,Direct,Contributor Guest,User, Yoke Yin Lee
+85,FredaShare/Release 6 Stage 3/Project documents/FREDA Release 6 Features V3.docx,Document,Direct,Contributor Guest,User, David Smart
+86,FredaShare/Release 6 Stage 3/Project documents/FREDA Release 6 Features V3.docx,Document,Direct,Contributor,User, Mark Rogers
+87,FredaShare/Release 6 Stage 3/Project documents/FREDA Release 6 Features V3.docx,Document,Direct,Contributor Guest,User, Brendan Kwok
+88,FredaShare/Release 6 Stage 3/Project documents/FREDA Release 6 Features V3.docx,Document,Direct,Contributor Guest,User, Monica Kemp
+89,FredaShare/Release 6 Stage 3/Project documents/FREDA Release 6 Features V3.docx,Document,Direct,Contributor Guest,User, Leon Chan
+90,FredaShare/Release 6 Stage 3/Project documents/FREDA Release 6 Features V3.docx,Document,Direct,Contributor Guest,User, Danny Kong
+91,FredaShare/Release 6 Stage 3/Project documents/FREDA Release 6 Features V3.docx,Document,Direct,Administrator,SharePoint Group, x_ITAdmin
+92,FredaShare/Release 6 Stage 3/Project documents/FREDA Release 6 Features V3.docx,Document,Direct,Editor Guest,User, Anita Reedy
+93,FredaShare/Release 6 Stage 3/Project documents/FREDA Release 6 Features V3.docx,Document,Direct,Contributor Guest,User, Mary Gaughan
+94,FredaShare/Release 6 Stage 3/Project documents/FREDA Release 6 Features V3.docx,Document,Direct,Guest,Domain Group (or user),c:0+.w|s-1-5-21-1363303857-1279047675-2850138303-3739
+95,FredaShare/Release 6 Stage 3/Project documents/FREDA Release 6 Features V3.docx,Document,Direct,Contributor Guest,User, Li Teng Tan
+96,FredaShare/Release 6 Stage 3/Project documents/FREDA Release 6 Features V3.docx,Document,Direct,Contributor Guest,User, Jack McGinty
+97,FredaShare/Release 6 Stage 3/Project documents/FREDA Release 6 Features V3.docx,Document,Direct,Contributor Guest,User, Louis Pasigan
+98,FredaShare/Release 6 Stage 3/Project documents/FREDA Release 6 Features V3.docx,Document,Direct,Contributor Guest,User, Brandon Kobayashi
+99,FredaShare/Release 6 Stage 3/Project documents/FREDA Release 6 Features V3.docx,Document,Direct,Contributor Guest,User, Alvin Arumugam
+100,FredaShare/Release 6 Stage 3/Project documents/FREDA Release 6 Features V3.docx,Document,Direct,Contributor,User, Ted Cho
+101,FredaShare/Release 6 Stage 3/Project documents/FREDA Release 6 Features V3.docx,Document,Direct,Guest,SharePoint Group, Intra_Everyone
+102,FredaShare/Release 6 Stage 3/Project documents/FREDA Release 6 Features V3.docx,Document,Direct,Guest,User, Bareen Charitra
+103,FredaShare/Release 6 Stage 3/Project documents/FREDA Release 6 Features V3.docx,Document,Direct,Contributor Guest,User, Paul O'Dwyer
+104,FredaShare/Release 6 Stage 3/Project documents/FREDA Release 6 Features V3.docx,Document,Direct,Contributor Guest,User, Aditi Chopra
+105,FredaShare/Release 6 Stage 3/Project documents/FREDA Release 6 Features V3.docx,Document,Direct,Contributor Guest,User, Phil Wood
+106,FredaShare/Release 6 Stage 3/Project documents/FREDA Release 6 Features V3.docx,Document,Direct,Contributor Guest,User, Brian Cregan
+107,FredaShare/Release 6 Stage 3/Project documents/FREDA 6 Business Requirements v1.91.docx,Document,Direct,Guest,User, northwaveVPNuser
+108,FredaShare/Release 6 Stage 3/Project documents/FREDA 6 Business Requirements v1.91.docx,Document,Direct,Guest,Domain Group (or user),c:0(.s|true
+109,FredaShare/Release 6 Stage 3/Project documents/FREDA 6 Business Requirements v1.91.docx,Document,Direct,Guest,User, David Smith
+110,FredaShare/Release 6 Stage 3/Project documents/FREDA 6 Business Requirements v1.91.docx,Document,Direct,Guest,User, Andrew Wild
+111,FredaShare/Release 6 Stage 3/Project documents/FREDA 6 Business Requirements v1.91.docx,Document,Direct,Guest,User, Neil Ryder
+112,FredaShare/Release 6 Stage 3/Project documents/FREDA 6 Business Requirements v1.91.docx,Document,Direct,Administrator Guest,User, Jaz Thomson
+113,FredaShare/Release 6 Stage 3/Project documents/FREDA 6 Business Requirements v1.91.docx,Document,Direct,Guest,User, Kristina Staveckaite
+114,FredaShare/Release 6 Stage 3/Project documents/FREDA 6 Business Requirements v1.91.docx,Document,Direct,Guest,User, Nicholas Bryant
+115,FredaShare/Release 6 Stage 3/Project documents/FREDA 6 Business Requirements v1.91.docx,Document,Direct,Guest,User, Mark Davies
+116,FredaShare/Release 6 Stage 3/Project documents/FREDA 6 Business Requirements v1.91.docx,Document,Direct,Guest,User, Chris Skinner
+117,FredaShare/Release 6 Stage 3/Project documents/FREDA 6 Business Requirements v1.91.docx,Document,Direct,Guest,User, Rob Guy
+118,FredaShare/Release 6 Stage 3/Project documents/FREDA 6 Business Requirements v1.91.docx,Document,Direct,Guest,User, Chris Shearing
+119,FredaShare/Release 6 Stage 3/Project documents/FREDA 6 Business Requirements v1.91.docx,Document,Direct,Guest,User, Dan Roots
+120,FredaShare/Release 6 Stage 3/Project documents/FREDA 6 Business Requirements v1.91.docx,Document,Direct,Guest,User, Jayson Cox
+121,FredaShare/Release 6 Stage 3/Project documents/FREDA 6 Business Requirements v1.91.docx,Document,Direct,Contributor Guest,User, Earshad Rahim
+122,FredaShare/Release 6 Stage 3/Project documents/FREDA 6 Business Requirements v1.91.docx,Document,Direct,Guest,User, Daniel Walsh
+123,FredaShare/Release 6 Stage 3/Project documents/FREDA 6 Business Requirements v1.91.docx,Document,Direct,Contributor,User, Chris Humphris
+124,FredaShare/Release 6 Stage 3/Project documents/FREDA 6 Business Requirements v1.91.docx,Document,Direct,Contributor,User, Mui Tze Tan
+125,FredaShare/Release 6 Stage 3/Project documents/FREDA 6 Business Requirements v1.91.docx,Document,Direct,Guest,User, Rhys Faulkner
+126,FredaShare/Release 6 Stage 3/Project documents/FREDA 6 Business Requirements v1.91.docx,Document,Direct,Contributor,User, Akta Savla
+127,FredaShare/Release 6 Stage 3/Project documents/FREDA 6 Business Requirements v1.91.docx,Document,Direct,Contributor Guest,SharePoint Group, DCIT Owners
+128,FredaShare/Release 6 Stage 3/Project documents/FREDA 6 Business Requirements v1.91.docx,Document,Direct,Contributor Guest,SharePoint Group, DCIT Members
+129,FredaShare/Release 6 Stage 3/Project documents/FREDA 6 Business Requirements v1.91.docx,Document,Direct,Contributor Guest,SharePoint Group, DCIT Visitors
+130,FredaShare/Release 6 Stage 3/Project documents/FREDA 6 Business Requirements v1.91.docx,Document,Direct,Contributor,User, Andrew Squires
+131,FredaShare/Release 6 Stage 3/Project documents/FREDA 6 Business Requirements v1.91.docx,Document,Direct,Contributor,User, Kok G Ng
+132,FredaShare/Release 6 Stage 3/Project documents/FREDA 6 Business Requirements v1.91.docx,Document,Direct,Contributor,User, Aidan Fee
+133,FredaShare/Release 6 Stage 3/Project documents/FREDA 6 Business Requirements v1.91.docx,Document,Direct,Contributor,User, Katy Gilligan
+134,FredaShare/Release 6 Stage 3/Project documents/FREDA 6 Business Requirements v1.91.docx,Document,Direct,Contributor,User, Tony Tong
+135,FredaShare/Release 6 Stage 3/Project documents/FREDA 6 Business Requirements v1.91.docx,Document,Direct,Contributor,User, Maria Gregorio
+136,FredaShare/Release 6 Stage 3/Project documents/FREDA 6 Business Requirements v1.91.docx,Document,Direct,Contributor,User, Yoke Yin Lee
+137,FredaShare/Release 6 Stage 3/Project documents/FREDA 6 Business Requirements v1.91.docx,Document,Direct,Contributor,User, David Smart
+138,FredaShare/Release 6 Stage 3/Project documents/FREDA 6 Business Requirements v1.91.docx,Document,Direct,Contributor,User, Mark Rogers
+139,FredaShare/Release 6 Stage 3/Project documents/FREDA 6 Business Requirements v1.91.docx,Document,Direct,Contributor,User, Brendan Kwok
+140,FredaShare/Release 6 Stage 3/Project documents/FREDA 6 Business Requirements v1.91.docx,Document,Direct,Contributor,User, Monica Kemp
+141,FredaShare/Release 6 Stage 3/Project documents/FREDA 6 Business Requirements v1.91.docx,Document,Direct,Contributor,User, Leon Chan
+142,FredaShare/Release 6 Stage 3/Project documents/FREDA 6 Business Requirements v1.91.docx,Document,Direct,Contributor,User, Danny Kong
+143,FredaShare/Release 6 Stage 3/Project documents/FREDA 6 Business Requirements v1.91.docx,Document,Direct,Administrator,SharePoint Group, x_ITAdmin
+144,FredaShare/Release 6 Stage 3/Project documents/FREDA 6 Business Requirements v1.91.docx,Document,Direct,Editor Guest,User, Anita Reedy
+145,FredaShare/Release 6 Stage 3/Project documents/FREDA 6 Business Requirements v1.91.docx,Document,Direct,Contributor,User, Mary Gaughan
+146,FredaShare/Release 6 Stage 3/Project documents/FREDA 6 Business Requirements v1.91.docx,Document,Direct,Guest,Domain Group (or user),c:0+.w|s-1-5-21-1363303857-1279047675-2850138303-3739
+147,FredaShare/Release 6 Stage 3/Project documents/FREDA 6 Business Requirements v1.91.docx,Document,Direct,Contributor,User, Li Teng Tan
+148,FredaShare/Release 6 Stage 3/Project documents/FREDA 6 Business Requirements v1.91.docx,Document,Direct,Contributor,User, Jack McGinty
+149,FredaShare/Release 6 Stage 3/Project documents/FREDA 6 Business Requirements v1.91.docx,Document,Direct,Contributor,User, Louis Pasigan
+150,FredaShare/Release 6 Stage 3/Project documents/FREDA 6 Business Requirements v1.91.docx,Document,Direct,Contributor,User, Brandon Kobayashi
+151,FredaShare/Release 6 Stage 3/Project documents/FREDA 6 Business Requirements v1.91.docx,Document,Direct,Contributor,User, Alvin Arumugam
+152,FredaShare/Release 6 Stage 3/Project documents/FREDA 6 Business Requirements v1.91.docx,Document,Direct,Contributor,User, Ted Cho
+153,FredaShare/Release 6 Stage 3/Project documents/FREDA 6 Business Requirements v1.91.docx,Document,Direct,Guest,SharePoint Group, Intra_Everyone
+154,FredaShare/Release 6 Stage 3/Project documents/FREDA 6 Business Requirements v1.91.docx,Document,Direct,Guest,User, Bareen Charitra
+155,FredaShare/Release 6 Stage 3/Project documents/FREDA 6 Business Requirements v1.91.docx,Document,Direct,Contributor,User, Paul O'Dwyer
+156,FredaShare/Release 6 Stage 3/Project documents/FREDA 6 Business Requirements v1.91.docx,Document,Direct,Contributor,User, Aditi Chopra
+157,FredaShare/Release 6 Stage 3/Project documents/FREDA 6 Business Requirements v1.91.docx,Document,Direct,Contributor,User, Phil Wood
+158,FredaShare/Release 6 Stage 3/Project documents/FREDA 6 Business Requirements v1.91.docx,Document,Direct,Contributor,User, Brian Cregan
+159,FredaShare/Release 6 Stage 3/Project documents/New Essbase Cubes.docx,Document,Direct,Guest,User, northwaveVPNuser
+160,FredaShare/Release 6 Stage 3/Project documents/New Essbase Cubes.docx,Document,Direct,Guest,Domain Group (or user),c:0(.s|true
+161,FredaShare/Release 6 Stage 3/Project documents/New Essbase Cubes.docx,Document,Direct,Guest,User, David Smith
+162,FredaShare/Release 6 Stage 3/Project documents/New Essbase Cubes.docx,Document,Direct,Guest,User, Andrew Wild
+163,FredaShare/Release 6 Stage 3/Project documents/New Essbase Cubes.docx,Document,Direct,Guest,User, Neil Ryder
+164,FredaShare/Release 6 Stage 3/Project documents/New Essbase Cubes.docx,Document,Direct,Administrator Guest,User, Jaz Thomson
+165,FredaShare/Release 6 Stage 3/Project documents/New Essbase Cubes.docx,Document,Direct,Guest,User, Kristina Staveckaite
+166,FredaShare/Release 6 Stage 3/Project documents/New Essbase Cubes.docx,Document,Direct,Guest,User, Nicholas Bryant
+167,FredaShare/Release 6 Stage 3/Project documents/New Essbase Cubes.docx,Document,Direct,Guest,User, Mark Davies
+168,FredaShare/Release 6 Stage 3/Project documents/New Essbase Cubes.docx,Document,Direct,Guest,User, Chris Skinner
+169,FredaShare/Release 6 Stage 3/Project documents/New Essbase Cubes.docx,Document,Direct,Guest,User, Rob Guy
+170,FredaShare/Release 6 Stage 3/Project documents/New Essbase Cubes.docx,Document,Direct,Guest,User, Chris Shearing
+171,FredaShare/Release 6 Stage 3/Project documents/New Essbase Cubes.docx,Document,Direct,Guest,User, Dan Roots
+172,FredaShare/Release 6 Stage 3/Project documents/New Essbase Cubes.docx,Document,Direct,Guest,User, Jayson Cox
+173,FredaShare/Release 6 Stage 3/Project documents/New Essbase Cubes.docx,Document,Direct,Contributor Guest,User, Earshad Rahim
+174,FredaShare/Release 6 Stage 3/Project documents/New Essbase Cubes.docx,Document,Direct,Guest,User, Daniel Walsh
+175,FredaShare/Release 6 Stage 3/Project documents/New Essbase Cubes.docx,Document,Direct,Contributor Guest,User, Chris Humphris
+176,FredaShare/Release 6 Stage 3/Project documents/New Essbase Cubes.docx,Document,Direct,Contributor Guest,User, Mui Tze Tan
+177,FredaShare/Release 6 Stage 3/Project documents/New Essbase Cubes.docx,Document,Direct,Guest,User, Rhys Faulkner
+178,FredaShare/Release 6 Stage 3/Project documents/New Essbase Cubes.docx,Document,Direct,Contributor Guest,User, Akta Savla
+179,FredaShare/Release 6 Stage 3/Project documents/New Essbase Cubes.docx,Document,Direct,Contributor Guest,SharePoint Group, DCIT Owners
+180,FredaShare/Release 6 Stage 3/Project documents/New Essbase Cubes.docx,Document,Direct,Contributor Guest,SharePoint Group, DCIT Members
+181,FredaShare/Release 6 Stage 3/Project documents/New Essbase Cubes.docx,Document,Direct,Contributor Guest,SharePoint Group, DCIT Visitors
+182,FredaShare/Release 6 Stage 3/Project documents/New Essbase Cubes.docx,Document,Direct,Contributor Guest,User, Andrew Squires
+183,FredaShare/Release 6 Stage 3/Project documents/New Essbase Cubes.docx,Document,Direct,Contributor Guest,User, Kok G Ng
+184,FredaShare/Release 6 Stage 3/Project documents/New Essbase Cubes.docx,Document,Direct,Contributor Guest,User, Aidan Fee
+185,FredaShare/Release 6 Stage 3/Project documents/New Essbase Cubes.docx,Document,Direct,Contributor,User, Katy Gilligan
+186,FredaShare/Release 6 Stage 3/Project documents/New Essbase Cubes.docx,Document,Direct,Contributor Guest,User, Tony Tong
+187,FredaShare/Release 6 Stage 3/Project documents/New Essbase Cubes.docx,Document,Direct,Contributor Guest,User, Maria Gregorio
+188,FredaShare/Release 6 Stage 3/Project documents/New Essbase Cubes.docx,Document,Direct,Contributor Guest,User, Yoke Yin Lee
+189,FredaShare/Release 6 Stage 3/Project documents/New Essbase Cubes.docx,Document,Direct,Contributor Guest,User, David Smart
+190,FredaShare/Release 6 Stage 3/Project documents/New Essbase Cubes.docx,Document,Direct,Contributor,User, Mark Rogers
+191,FredaShare/Release 6 Stage 3/Project documents/New Essbase Cubes.docx,Document,Direct,Contributor Guest,User, Brendan Kwok
+192,FredaShare/Release 6 Stage 3/Project documents/New Essbase Cubes.docx,Document,Direct,Contributor Guest,User, Monica Kemp
+193,FredaShare/Release 6 Stage 3/Project documents/New Essbase Cubes.docx,Document,Direct,Contributor Guest,User, Leon Chan
+194,FredaShare/Release 6 Stage 3/Project documents/New Essbase Cubes.docx,Document,Direct,Contributor Guest,User, Danny Kong
+195,FredaShare/Release 6 Stage 3/Project documents/New Essbase Cubes.docx,Document,Direct,Administrator,SharePoint Group, x_ITAdmin
+196,FredaShare/Release 6 Stage 3/Project documents/New Essbase Cubes.docx,Document,Direct,Editor Guest,User, Anita Reedy
+197,FredaShare/Release 6 Stage 3/Project documents/New Essbase Cubes.docx,Document,Direct,Contributor Guest,User, Mary Gaughan
+198,FredaShare/Release 6 Stage 3/Project documents/New Essbase Cubes.docx,Document,Direct,Guest,Domain Group (or user),c:0+.w|s-1-5-21-1363303857-1279047675-2850138303-3739
+199,FredaShare/Release 6 Stage 3/Project documents/New Essbase Cubes.docx,Document,Direct,Contributor Guest,User, Li Teng Tan
+200,FredaShare/Release 6 Stage 3/Project documents/New Essbase Cubes.docx,Document,Direct,Contributor Guest,User, Jack McGinty
+201,FredaShare/Release 6 Stage 3/Project documents/New Essbase Cubes.docx,Document,Direct,Contributor Guest,User, Louis Pasigan
+202,FredaShare/Release 6 Stage 3/Project documents/New Essbase Cubes.docx,Document,Direct,Contributor Guest,User, Brandon Kobayashi
+203,FredaShare/Release 6 Stage 3/Project documents/New Essbase Cubes.docx,Document,Direct,Contributor Guest,User, Alvin Arumugam
+204,FredaShare/Release 6 Stage 3/Project documents/New Essbase Cubes.docx,Document,Direct,Contributor,User, Ted Cho
+205,FredaShare/Release 6 Stage 3/Project documents/New Essbase Cubes.docx,Document,Direct,Guest,SharePoint Group, Intra_Everyone
+206,FredaShare/Release 6 Stage 3/Project documents/New Essbase Cubes.docx,Document,Direct,Guest,User, Bareen Charitra
+207,FredaShare/Release 6 Stage 3/Project documents/New Essbase Cubes.docx,Document,Direct,Contributor Guest,User, Paul O'Dwyer
+208,FredaShare/Release 6 Stage 3/Project documents/New Essbase Cubes.docx,Document,Direct,Contributor Guest,User, Aditi Chopra
+209,FredaShare/Release 6 Stage 3/Project documents/New Essbase Cubes.docx,Document,Direct,Contributor Guest,User, Phil Wood
+210,FredaShare/Release 6 Stage 3/Project documents/New Essbase Cubes.docx,Document,Direct,Contributor Guest,User, Brian Cregan
+211,FredaShare/Release 6 Stage 3/Role Based Testing,Folder,Direct,Guest,User, northwaveVPNuser
+212,FredaShare/Release 6 Stage 3/Role Based Testing,Folder,Direct,Guest,Domain Group (or user),c:0(.s|true
+213,FredaShare/Release 6 Stage 3/Role Based Testing,Folder,Direct,Guest,User, David Smith
+214,FredaShare/Release 6 Stage 3/Role Based Testing,Folder,Direct,Guest,User, Andrew Wild
+215,FredaShare/Release 6 Stage 3/Role Based Testing,Folder,Direct,Guest,User, Neil Ryder
+216,FredaShare/Release 6 Stage 3/Role Based Testing,Folder,Direct,Administrator Guest,User, Jaz Thomson
+217,FredaShare/Release 6 Stage 3/Role Based Testing,Folder,Direct,Guest,User, Kristina Staveckaite
+218,FredaShare/Release 6 Stage 3/Role Based Testing,Folder,Direct,Guest,User, Nicholas Bryant
+219,FredaShare/Release 6 Stage 3/Role Based Testing,Folder,Direct,Guest,User, Mark Davies
+220,FredaShare/Release 6 Stage 3/Role Based Testing,Folder,Direct,Guest,User, Chris Skinner
+221,FredaShare/Release 6 Stage 3/Role Based Testing,Folder,Direct,Guest,User, Rob Guy
+222,FredaShare/Release 6 Stage 3/Role Based Testing,Folder,Direct,Guest,User, Chris Shearing
+223,FredaShare/Release 6 Stage 3/Role Based Testing,Folder,Direct,Guest,User, Dan Roots
+224,FredaShare/Release 6 Stage 3/Role Based Testing,Folder,Direct,Guest,User, Jayson Cox
+225,FredaShare/Release 6 Stage 3/Role Based Testing,Folder,Direct,Contributor Guest,User, Earshad Rahim
+226,FredaShare/Release 6 Stage 3/Role Based Testing,Folder,Direct,Guest,User, Daniel Walsh
+227,FredaShare/Release 6 Stage 3/Role Based Testing,Folder,Direct,Contributor Guest,User, Chris Humphris
+228,FredaShare/Release 6 Stage 3/Role Based Testing,Folder,Direct,Contributor Guest,User, Mui Tze Tan
+229,FredaShare/Release 6 Stage 3/Role Based Testing,Folder,Direct,Guest,User, Rhys Faulkner
+230,FredaShare/Release 6 Stage 3/Role Based Testing,Folder,Direct,Contributor Guest,User, Akta Savla
+231,FredaShare/Release 6 Stage 3/Role Based Testing,Folder,Direct,Contributor Guest,SharePoint Group, DCIT Owners
+232,FredaShare/Release 6 Stage 3/Role Based Testing,Folder,Direct,Contributor Guest,SharePoint Group, DCIT Members
+233,FredaShare/Release 6 Stage 3/Role Based Testing,Folder,Direct,Contributor Guest,SharePoint Group, DCIT Visitors
+234,FredaShare/Release 6 Stage 3/Role Based Testing,Folder,Direct,Contributor Guest,User, Andrew Squires
+235,FredaShare/Release 6 Stage 3/Role Based Testing,Folder,Direct,Contributor Guest,User, Kok G Ng
+236,FredaShare/Release 6 Stage 3/Role Based Testing,Folder,Direct,Contributor Guest,User, Aidan Fee
+237,FredaShare/Release 6 Stage 3/Role Based Testing,Folder,Direct,Contributor,User, Katy Gilligan
+238,FredaShare/Release 6 Stage 3/Role Based Testing,Folder,Direct,Contributor Guest,User, Tony Tong
+239,FredaShare/Release 6 Stage 3/Role Based Testing,Folder,Direct,Contributor Guest,User, Maria Gregorio
+240,FredaShare/Release 6 Stage 3/Role Based Testing,Folder,Direct,Contributor Guest,User, Yoke Yin Lee
+241,FredaShare/Release 6 Stage 3/Role Based Testing,Folder,Direct,Contributor Guest,User, David Smart
+242,FredaShare/Release 6 Stage 3/Role Based Testing,Folder,Direct,Contributor,User, Mark Rogers
+243,FredaShare/Release 6 Stage 3/Role Based Testing,Folder,Direct,Contributor Guest,User, Brendan Kwok
+244,FredaShare/Release 6 Stage 3/Role Based Testing,Folder,Direct,Contributor Guest,User, Monica Kemp
+245,FredaShare/Release 6 Stage 3/Role Based Testing,Folder,Direct,Contributor Guest,User, Leon Chan
+246,FredaShare/Release 6 Stage 3/Role Based Testing,Folder,Direct,Contributor Guest,User, Danny Kong
+247,FredaShare/Release 6 Stage 3/Role Based Testing,Folder,Direct,Administrator,SharePoint Group, x_ITAdmin
+248,FredaShare/Release 6 Stage 3/Role Based Testing,Folder,Direct,Editor Guest,User, Anita Reedy
+249,FredaShare/Release 6 Stage 3/Role Based Testing,Folder,Direct,Contributor Guest,User, Mary Gaughan
+250,FredaShare/Release 6 Stage 3/Role Based Testing,Folder,Direct,Guest,Domain Group (or user),c:0+.w|s-1-5-21-1363303857-1279047675-2850138303-3739
+251,FredaShare/Release 6 Stage 3/Role Based Testing,Folder,Direct,Contributor Guest,User, Li Teng Tan
+252,FredaShare/Release 6 Stage 3/Role Based Testing,Folder,Direct,Contributor Guest,User, Jack McGinty
+253,FredaShare/Release 6 Stage 3/Role Based Testing,Folder,Direct,Contributor Guest,User, Louis Pasigan
+254,FredaShare/Release 6 Stage 3/Role Based Testing,Folder,Direct,Contributor Guest,User, Brandon Kobayashi
+255,FredaShare/Release 6 Stage 3/Role Based Testing,Folder,Direct,Contributor Guest,User, Alvin Arumugam
+256,FredaShare/Release 6 Stage 3/Role Based Testing,Folder,Direct,Contributor,User, Ted Cho
+257,FredaShare/Release 6 Stage 3/Role Based Testing,Folder,Direct,Guest,SharePoint Group, Intra_Everyone
+258,FredaShare/Release 6 Stage 3/Role Based Testing,Folder,Direct,Guest,User, Bareen Charitra
+259,FredaShare/Release 6 Stage 3/Role Based Testing,Folder,Direct,Contributor Guest,User, Paul O'Dwyer
+260,FredaShare/Release 6 Stage 3/Role Based Testing,Folder,Direct,Contributor Guest,User, Aditi Chopra
+261,FredaShare/Release 6 Stage 3/Role Based Testing,Folder,Direct,Contributor Guest,User, Phil Wood
+262,FredaShare/Release 6 Stage 3/Role Based Testing,Folder,Direct,Contributor Guest,User, Brian Cregan
+263,FredaShare/Release 6 Stage 3/Test Results,Folder,Direct,Guest,User, northwaveVPNuser
+264,FredaShare/Release 6 Stage 3/Test Results,Folder,Direct,Guest,Domain Group (or user),c:0(.s|true
+265,FredaShare/Release 6 Stage 3/Test Results,Folder,Direct,Guest,User, David Smith
+266,FredaShare/Release 6 Stage 3/Test Results,Folder,Direct,Guest,User, Andrew Wild
+267,FredaShare/Release 6 Stage 3/Test Results,Folder,Direct,Guest,User, Neil Ryder
+268,FredaShare/Release 6 Stage 3/Test Results,Folder,Direct,Administrator Guest,User, Jaz Thomson
+269,FredaShare/Release 6 Stage 3/Test Results,Folder,Direct,Guest,User, Kristina Staveckaite
+270,FredaShare/Release 6 Stage 3/Test Results,Folder,Direct,Guest,User, Nicholas Bryant
+271,FredaShare/Release 6 Stage 3/Test Results,Folder,Direct,Guest,User, Mark Davies
+272,FredaShare/Release 6 Stage 3/Test Results,Folder,Direct,Guest,User, Chris Skinner
+273,FredaShare/Release 6 Stage 3/Test Results,Folder,Direct,Guest,User, Rob Guy
+274,FredaShare/Release 6 Stage 3/Test Results,Folder,Direct,Guest,User, Chris Shearing
+275,FredaShare/Release 6 Stage 3/Test Results,Folder,Direct,Guest,User, Dan Roots
+276,FredaShare/Release 6 Stage 3/Test Results,Folder,Direct,Guest,User, Jayson Cox
+277,FredaShare/Release 6 Stage 3/Test Results,Folder,Direct,Contributor Guest,User, Earshad Rahim
+278,FredaShare/Release 6 Stage 3/Test Results,Folder,Direct,Guest,User, Daniel Walsh
+279,FredaShare/Release 6 Stage 3/Test Results,Folder,Direct,Contributor Guest,User, Chris Humphris
+280,FredaShare/Release 6 Stage 3/Test Results,Folder,Direct,Contributor Guest,User, Mui Tze Tan
+281,FredaShare/Release 6 Stage 3/Test Results,Folder,Direct,Guest,User, Rhys Faulkner
+282,FredaShare/Release 6 Stage 3/Test Results,Folder,Direct,Contributor Guest,User, Akta Savla
+283,FredaShare/Release 6 Stage 3/Test Results,Folder,Direct,Contributor Guest,SharePoint Group, DCIT Owners
+284,FredaShare/Release 6 Stage 3/Test Results,Folder,Direct,Contributor Guest,SharePoint Group, DCIT Members
+285,FredaShare/Release 6 Stage 3/Test Results,Folder,Direct,Contributor Guest,SharePoint Group, DCIT Visitors
+286,FredaShare/Release 6 Stage 3/Test Results,Folder,Direct,Contributor Guest,User, Andrew Squires
+287,FredaShare/Release 6 Stage 3/Test Results,Folder,Direct,Contributor Guest,User, Kok G Ng
+288,FredaShare/Release 6 Stage 3/Test Results,Folder,Direct,Contributor Guest,User, Aidan Fee
+289,FredaShare/Release 6 Stage 3/Test Results,Folder,Direct,Contributor Guest,User, Katy Gilligan
+290,FredaShare/Release 6 Stage 3/Test Results,Folder,Direct,Contributor Guest,User, Tony Tong
+291,FredaShare/Release 6 Stage 3/Test Results,Folder,Direct,Contributor Guest,User, Maria Gregorio
+292,FredaShare/Release 6 Stage 3/Test Results,Folder,Direct,Contributor Guest,User, Yoke Yin Lee
+293,FredaShare/Release 6 Stage 3/Test Results,Folder,Direct,Contributor Guest,User, David Smart
+294,FredaShare/Release 6 Stage 3/Test Results,Folder,Direct,Contributor Guest,User, Mark Rogers
+295,FredaShare/Release 6 Stage 3/Test Results,Folder,Direct,Contributor Guest,User, Brendan Kwok
+296,FredaShare/Release 6 Stage 3/Test Results,Folder,Direct,Contributor Guest,User, Monica Kemp
+297,FredaShare/Release 6 Stage 3/Test Results,Folder,Direct,Contributor Guest,User, Leon Chan
+298,FredaShare/Release 6 Stage 3/Test Results,Folder,Direct,Contributor Guest,User, Danny Kong
+299,FredaShare/Release 6 Stage 3/Test Results,Folder,Direct,Administrator,SharePoint Group, x_ITAdmin
+300,FredaShare/Release 6 Stage 3/Test Results,Folder,Direct,Editor Guest,User, Anita Reedy
+301,FredaShare/Release 6 Stage 3/Test Results,Folder,Direct,Contributor Guest,User, Mary Gaughan
+302,FredaShare/Release 6 Stage 3/Test Results,Folder,Direct,Guest,Domain Group (or user),c:0+.w|s-1-5-21-1363303857-1279047675-2850138303-3739
+303,FredaShare/Release 6 Stage 3/Test Results,Folder,Direct,Contributor Guest,User, Li Teng Tan
+304,FredaShare/Release 6 Stage 3/Test Results,Folder,Direct,Contributor Guest,User, Jack McGinty
+305,FredaShare/Release 6 Stage 3/Test Results,Folder,Direct,Contributor Guest,User, Louis Pasigan
+306,FredaShare/Release 6 Stage 3/Test Results,Folder,Direct,Contributor Guest,User, Brandon Kobayashi
+307,FredaShare/Release 6 Stage 3/Test Results,Folder,Direct,Contributor Guest,User, Alvin Arumugam
+308,FredaShare/Release 6 Stage 3/Test Results,Folder,Direct,Contributor Guest,User, Ted Cho
+309,FredaShare/Release 6 Stage 3/Test Results,Folder,Direct,Guest,SharePoint Group, Intra_Everyone
+310,FredaShare/Release 6 Stage 3/Test Results,Folder,Direct,Guest,User, Bareen Charitra
+311,FredaShare/Release 6 Stage 3/Test Results,Folder,Direct,Contributor Guest,User, Paul O'Dwyer
+312,FredaShare/Release 6 Stage 3/Test Results,Folder,Direct,Contributor Guest,User, Aditi Chopra
+313,FredaShare/Release 6 Stage 3/Test Results,Folder,Direct,Contributor Guest,User, Phil Wood
+314,FredaShare/Release 6 Stage 3/Test Results,Folder,Direct,Contributor Guest,User, Brian Cregan
+315,FredaShare/Release 6 Stage 3/Training,Folder,Direct,Guest,User, northwaveVPNuser
+316,FredaShare/Release 6 Stage 3/Training,Folder,Direct,Guest,Domain Group (or user),c:0(.s|true
+317,FredaShare/Release 6 Stage 3/Training,Folder,Direct,Guest,User, David Smith
+318,FredaShare/Release 6 Stage 3/Training,Folder,Direct,Guest,User, Andrew Wild
+319,FredaShare/Release 6 Stage 3/Training,Folder,Direct,Guest,User, Neil Ryder
+320,FredaShare/Release 6 Stage 3/Training,Folder,Direct,Administrator Guest,User, Jaz Thomson
+321,FredaShare/Release 6 Stage 3/Training,Folder,Direct,Guest,User, Kristina Staveckaite
+322,FredaShare/Release 6 Stage 3/Training,Folder,Direct,Guest,User, Nicholas Bryant
+323,FredaShare/Release 6 Stage 3/Training,Folder,Direct,Guest,User, Mark Davies
+324,FredaShare/Release 6 Stage 3/Training,Folder,Direct,Guest,User, Chris Skinner
+325,FredaShare/Release 6 Stage 3/Training,Folder,Direct,Guest,User, Rob Guy
+326,FredaShare/Release 6 Stage 3/Training,Folder,Direct,Guest,User, Chris Shearing
+327,FredaShare/Release 6 Stage 3/Training,Folder,Direct,Guest,User, Dan Roots
+328,FredaShare/Release 6 Stage 3/Training,Folder,Direct,Guest,User, Jayson Cox
+329,FredaShare/Release 6 Stage 3/Training,Folder,Direct,Contributor Guest,User, Earshad Rahim
+330,FredaShare/Release 6 Stage 3/Training,Folder,Direct,Guest,User, Daniel Walsh
+331,FredaShare/Release 6 Stage 3/Training,Folder,Direct,Contributor Guest,User, Chris Humphris
+332,FredaShare/Release 6 Stage 3/Training,Folder,Direct,Contributor Guest,User, Mui Tze Tan
+333,FredaShare/Release 6 Stage 3/Training,Folder,Direct,Guest,User, Rhys Faulkner
+334,FredaShare/Release 6 Stage 3/Training,Folder,Direct,Contributor Guest,User, Akta Savla
+335,FredaShare/Release 6 Stage 3/Training,Folder,Direct,Contributor Guest,SharePoint Group, DCIT Owners
+336,FredaShare/Release 6 Stage 3/Training,Folder,Direct,Contributor Guest,SharePoint Group, DCIT Members
+337,FredaShare/Release 6 Stage 3/Training,Folder,Direct,Contributor Guest,SharePoint Group, DCIT Visitors
+338,FredaShare/Release 6 Stage 3/Training,Folder,Direct,Contributor Guest,User, Andrew Squires
+339,FredaShare/Release 6 Stage 3/Training,Folder,Direct,Contributor Guest,User, Kok G Ng
+340,FredaShare/Release 6 Stage 3/Training,Folder,Direct,Contributor Guest,User, Aidan Fee
+341,FredaShare/Release 6 Stage 3/Training,Folder,Direct,Contributor Guest,User, Katy Gilligan
+342,FredaShare/Release 6 Stage 3/Training,Folder,Direct,Contributor Guest,User, Tony Tong
+343,FredaShare/Release 6 Stage 3/Training,Folder,Direct,Contributor Guest,User, Maria Gregorio
+344,FredaShare/Release 6 Stage 3/Training,Folder,Direct,Contributor Guest,User, Yoke Yin Lee
+345,FredaShare/Release 6 Stage 3/Training,Folder,Direct,Contributor Guest,User, David Smart
+346,FredaShare/Release 6 Stage 3/Training,Folder,Direct,Contributor Guest,User, Mark Rogers
+347,FredaShare/Release 6 Stage 3/Training,Folder,Direct,Contributor Guest,User, Brendan Kwok
+348,FredaShare/Release 6 Stage 3/Training,Folder,Direct,Contributor Guest,User, Monica Kemp
+349,FredaShare/Release 6 Stage 3/Training,Folder,Direct,Contributor Guest,User, Leon Chan
+350,FredaShare/Release 6 Stage 3/Training,Folder,Direct,Contributor Guest,User, Danny Kong
+351,FredaShare/Release 6 Stage 3/Training,Folder,Direct,Administrator,SharePoint Group, x_ITAdmin
+352,FredaShare/Release 6 Stage 3/Training,Folder,Direct,Editor Guest,User, Anita Reedy
+353,FredaShare/Release 6 Stage 3/Training,Folder,Direct,Contributor Guest,User, Mary Gaughan
+354,FredaShare/Release 6 Stage 3/Training,Folder,Direct,Guest,Domain Group (or user),c:0+.w|s-1-5-21-1363303857-1279047675-2850138303-3739
+355,FredaShare/Release 6 Stage 3/Training,Folder,Direct,Contributor Guest,User, Li Teng Tan
+356,FredaShare/Release 6 Stage 3/Training,Folder,Direct,Contributor Guest,User, Jack McGinty
+357,FredaShare/Release 6 Stage 3/Training,Folder,Direct,Contributor Guest,User, Louis Pasigan
+358,FredaShare/Release 6 Stage 3/Training,Folder,Direct,Contributor Guest,User, Brandon Kobayashi
+359,FredaShare/Release 6 Stage 3/Training,Folder,Direct,Contributor Guest,User, Alvin Arumugam
+360,FredaShare/Release 6 Stage 3/Training,Folder,Direct,Contributor Guest,User, Ted Cho
+361,FredaShare/Release 6 Stage 3/Training,Folder,Direct,Guest,SharePoint Group, Intra_Everyone
+362,FredaShare/Release 6 Stage 3/Training,Folder,Direct,Guest,User, Bareen Charitra
+363,FredaShare/Release 6 Stage 3/Training,Folder,Direct,Contributor Guest,User, Paul O'Dwyer
+364,FredaShare/Release 6 Stage 3/Training,Folder,Direct,Contributor Guest,User, Aditi Chopra
+365,FredaShare/Release 6 Stage 3/Training,Folder,Direct,Contributor Guest,User, Phil Wood
+366,FredaShare/Release 6 Stage 3/Training,Folder,Direct,Contributor Guest,User, Brian Cregan
+367,FredaShare/Release 6 Stage 3/System Test Results,Folder,Direct,Guest,User, northwaveVPNuser
+368,FredaShare/Release 6 Stage 3/System Test Results,Folder,Direct,Guest,Domain Group (or user),c:0(.s|true
+369,FredaShare/Release 6 Stage 3/System Test Results,Folder,Direct,Guest,User, David Smith
+370,FredaShare/Release 6 Stage 3/System Test Results,Folder,Direct,Guest,User, Andrew Wild
+371,FredaShare/Release 6 Stage 3/System Test Results,Folder,Direct,Guest,User, Neil Ryder
+372,FredaShare/Release 6 Stage 3/System Test Results,Folder,Direct,Administrator Guest,User, Jaz Thomson
+373,FredaShare/Release 6 Stage 3/System Test Results,Folder,Direct,Guest,User, Kristina Staveckaite
+374,FredaShare/Release 6 Stage 3/System Test Results,Folder,Direct,Guest,User, Nicholas Bryant
+375,FredaShare/Release 6 Stage 3/System Test Results,Folder,Direct,Guest,User, Mark Davies
+376,FredaShare/Release 6 Stage 3/System Test Results,Folder,Direct,Guest,User, Chris Skinner
+377,FredaShare/Release 6 Stage 3/System Test Results,Folder,Direct,Guest,User, Rob Guy
+378,FredaShare/Release 6 Stage 3/System Test Results,Folder,Direct,Guest,User, Chris Shearing
+379,FredaShare/Release 6 Stage 3/System Test Results,Folder,Direct,Guest,User, Dan Roots
+380,FredaShare/Release 6 Stage 3/System Test Results,Folder,Direct,Guest,User, Jayson Cox
+381,FredaShare/Release 6 Stage 3/System Test Results,Folder,Direct,Contributor Guest,User, Earshad Rahim
+382,FredaShare/Release 6 Stage 3/System Test Results,Folder,Direct,Guest,User, Daniel Walsh
+383,FredaShare/Release 6 Stage 3/System Test Results,Folder,Direct,Contributor Guest,User, Chris Humphris
+384,FredaShare/Release 6 Stage 3/System Test Results,Folder,Direct,Contributor Guest,User, Mui Tze Tan
+385,FredaShare/Release 6 Stage 3/System Test Results,Folder,Direct,Guest,User, Rhys Faulkner
+386,FredaShare/Release 6 Stage 3/System Test Results,Folder,Direct,Contributor Guest,User, Akta Savla
+387,FredaShare/Release 6 Stage 3/System Test Results,Folder,Direct,Contributor Guest,SharePoint Group, DCIT Owners
+388,FredaShare/Release 6 Stage 3/System Test Results,Folder,Direct,Contributor Guest,SharePoint Group, DCIT Members
+389,FredaShare/Release 6 Stage 3/System Test Results,Folder,Direct,Contributor Guest,SharePoint Group, DCIT Visitors
+390,FredaShare/Release 6 Stage 3/System Test Results,Folder,Direct,Contributor Guest,User, Andrew Squires
+391,FredaShare/Release 6 Stage 3/System Test Results,Folder,Direct,Contributor Guest,User, Kok G Ng
+392,FredaShare/Release 6 Stage 3/System Test Results,Folder,Direct,Contributor Guest,User, Aidan Fee
+393,FredaShare/Release 6 Stage 3/System Test Results,Folder,Direct,Contributor Guest,User, Katy Gilligan
+394,FredaShare/Release 6 Stage 3/System Test Results,Folder,Direct,Contributor Guest,User, Tony Tong
+395,FredaShare/Release 6 Stage 3/System Test Results,Folder,Direct,Contributor Guest,User, Maria Gregorio
+396,FredaShare/Release 6 Stage 3/System Test Results,Folder,Direct,Contributor Guest,User, Yoke Yin Lee
+397,FredaShare/Release 6 Stage 3/System Test Results,Folder,Direct,Contributor Guest,User, David Smart
+398,FredaShare/Release 6 Stage 3/System Test Results,Folder,Direct,Contributor Guest,User, Mark Rogers
+399,FredaShare/Release 6 Stage 3/System Test Results,Folder,Direct,Contributor Guest,User, Brendan Kwok
+400,FredaShare/Release 6 Stage 3/System Test Results,Folder,Direct,Contributor Guest,User, Monica Kemp
+401,FredaShare/Release 6 Stage 3/System Test Results,Folder,Direct,Contributor Guest,User, Leon Chan
+402,FredaShare/Release 6 Stage 3/System Test Results,Folder,Direct,Contributor Guest,User, Danny Kong
+403,FredaShare/Release 6 Stage 3/System Test Results,Folder,Direct,Administrator,SharePoint Group, x_ITAdmin
+404,FredaShare/Release 6 Stage 3/System Test Results,Folder,Direct,Editor Guest,User, Anita Reedy
+405,FredaShare/Release 6 Stage 3/System Test Results,Folder,Direct,Contributor Guest,User, Mary Gaughan
+406,FredaShare/Release 6 Stage 3/System Test Results,Folder,Direct,Guest,Domain Group (or user),c:0+.w|s-1-5-21-1363303857-1279047675-2850138303-3739
+407,FredaShare/Release 6 Stage 3/System Test Results,Folder,Direct,Contributor Guest,User, Li Teng Tan
+408,FredaShare/Release 6 Stage 3/System Test Results,Folder,Direct,Contributor Guest,User, Jack McGinty
+409,FredaShare/Release 6 Stage 3/System Test Results,Folder,Direct,Contributor Guest,User, Louis Pasigan
+410,FredaShare/Release 6 Stage 3/System Test Results,Folder,Direct,Contributor Guest,User, Brandon Kobayashi
+411,FredaShare/Release 6 Stage 3/System Test Results,Folder,Direct,Contributor Guest,User, Alvin Arumugam
+412,FredaShare/Release 6 Stage 3/System Test Results,Folder,Direct,Contributor Guest,User, Ted Cho
+413,FredaShare/Release 6 Stage 3/System Test Results,Folder,Direct,Guest,SharePoint Group, Intra_Everyone
+414,FredaShare/Release 6 Stage 3/System Test Results,Folder,Direct,Guest,User, Bareen Charitra
+415,FredaShare/Release 6 Stage 3/System Test Results,Folder,Direct,Contributor Guest,User, Paul O'Dwyer
+416,FredaShare/Release 6 Stage 3/System Test Results,Folder,Direct,Contributor Guest,User, Aditi Chopra
+417,FredaShare/Release 6 Stage 3/System Test Results,Folder,Direct,Contributor Guest,User, Phil Wood
+418,FredaShare/Release 6 Stage 3/System Test Results,Folder,Direct,Contributor Guest,User, Brian Cregan
+419,Infrastructure/Licensing,Folder,Direct,Reader,SharePoint Group, DCIT Visitors
+420,Infrastructure/TLS documentation/Forced TLS email check listing - Pacificlifere domain.xls,Document,Direct,Reader Guest,SharePoint Group, DCIT Visitors
+421,Infrastructure/Documentation/Active Directory/Singapore FS Dept Directory and Security Structure.xlsx,Document,Direct,Administrator,SharePoint Group, DCIT Owners
+422,Infrastructure/Documentation/Active Directory/Singapore FS Dept Directory and Security Structure.xlsx,Document,Direct,Contributor Guest,SharePoint Group, DCIT Members
+423,Infrastructure/Documentation/Active Directory/Singapore FS Dept Directory and Security Structure.xlsx,Document,Direct,Reader Guest,SharePoint Group, DCIT Visitors
+424,Infrastructure/Documentation/Security,Folder,Direct,Contributor,User, David Smith
+425,Infrastructure/Documentation/Security,Folder,Direct,Contributor,User, Andrew Wild
+426,Infrastructure/Documentation/Security,Folder,Direct,Contributor,User, Neil Ryder
+427,Infrastructure/Documentation/Security,Folder,Direct,Contributor,User, Kristina Staveckaite
+428,Infrastructure/Documentation/Security,Folder,Direct,Contributor,User, Chris Skinner
+429,Infrastructure/Documentation/Security,Folder,Direct,Contributor,User, Rob Guy
+430,Infrastructure/Documentation/Security,Folder,Direct,Contributor,User, Chris Shearing
+431,Infrastructure/Documentation/Security,Folder,Direct,Contributor,User, Dan Roots
+432,Infrastructure/Documentation/Security,Folder,Direct,Contributor,User, Jayson Cox
+433,Infrastructure/Documentation/Software Licence Keys,Folder,Direct,Reader,SharePoint Group, DCIT Visitors
+434,Intranet Documents,Library,Direct,Guest,User, northwaveVPNuser
+435,Intranet Documents,Library,Direct,Reader,Domain Group (or user),c:0(.s|true
+436,Intranet Documents,Library,Direct,Guest,User, David Smith
+437,Intranet Documents,Library,Direct,Guest,User, Andrew Wild
+438,Intranet Documents,Library,Direct,Guest,User, Neil Ryder
+439,Intranet Documents,Library,Direct,Guest,User, Jaz Thomson
+440,Intranet Documents,Library,Direct,Guest,User, Nicholas Bryant
+441,Intranet Documents,Library,Direct,Guest,User, Mark Davies
+442,Intranet Documents,Library,Direct,Guest,User, Chris Skinner
+443,Intranet Documents,Library,Direct,Guest,User, Rob Guy
+444,Intranet Documents,Library,Direct,Guest,User, Chris Shearing
+445,Intranet Documents,Library,Direct,Guest,User, Dan Roots
+446,Intranet Documents,Library,Direct,Guest,User, Jayson Cox
+447,Intranet Documents,Library,Direct,Guest,User, Earshad Rahim
+448,Intranet Documents,Library,Direct,Guest,User, Daniel Walsh
+449,Intranet Documents,Library,Direct,Guest,User, Rhys Faulkner
+450,Intranet Documents,Library,Direct,Administrator Guest,SharePoint Group, DCIT Owners
+451,Intranet Documents,Library,Direct,Editor Guest,SharePoint Group, DCIT Members
+452,Intranet Documents,Library,Direct,Reader Guest,SharePoint Group, DCIT Visitors
+453,Intranet Documents,Library,Direct,Administrator,SharePoint Group, x_ITAdmin
+454,Intranet Documents,Library,Direct,Guest,User, Anita Reedy
+455,Intranet Documents,Library,Direct,Guest,Domain Group (or user),c:0+.w|s-1-5-21-1363303857-1279047675-2850138303-3739
+456,Intranet Documents,Library,Direct,Reader,SharePoint Group, Intra_Everyone
+457,Intranet Documents,Library,Direct,Guest,User, Bareen Charitra
+458,Projects/FREDA,Folder,Direct,Administrator,User, Mark Davies
+459,Projects/FREDA,Folder,Direct,Contributor Guest,User, Earshad Rahim
+460,Projects/FREDA,Folder,Direct,Guest,User, Daniel Walsh
+461,Projects/FREDA,Folder,Direct,Guest,User, Rhys Faulkner
+462,Projects/FREDA,Folder,Direct,Administrator Guest,SharePoint Group, DCIT Owners
+463,Projects/FREDA,Folder,Direct,Editor Guest,SharePoint Group, DCIT Members
+464,Projects/FREDA,Folder,Direct,Reader Guest,SharePoint Group, DCIT Visitors
+465,Projects/FREDA,Folder,Direct,Administrator,SharePoint Group, x_ITAdmin
+466,Projects/FREDA,Folder,Direct,Contributor Guest,User, Anita Reedy
+467,Projects/FREDA,Folder,Direct,Guest,User, Bareen Charitra
+468,Projects/FREDA/FREDA 2017,Folder,Direct,Contributor Guest,User, Earshad Rahim
+469,Projects/FREDA/FREDA 2017,Folder,Direct,Guest,User, Daniel Walsh
+470,Projects/FREDA/FREDA 2017,Folder,Direct,Contributor Guest,User, Rhys Faulkner
+471,Projects/FREDA/FREDA 2017,Folder,Direct,Administrator Guest,SharePoint Group, DCIT Owners
+472,Projects/FREDA/FREDA 2017,Folder,Direct,Contributor Guest,SharePoint Group, DCIT Members
+473,Projects/FREDA/FREDA 2017,Folder,Direct,Reader Guest,SharePoint Group, DCIT Visitors
+474,Projects/FREDA/FREDA 2017,Folder,Direct,Contributor Guest,User, Anita Reedy
+475,Projects/FREDA/FREDA 2017,Folder,Direct,Contributor,User, Bareen Charitra
+476,Projects/FREDA/Release Archive/FREDA Migration 2016/Project Plan,Folder,Direct,Editor,User, Earshad Rahim
+477,Projects/FREDA/Release Archive/FREDA Migration 2016/Project Plan,Folder,Direct,Administrator,SharePoint Group, DCIT Owners
+478,Projects/FREDA/Release Archive/FREDA Migration 2016/Project Plan,Folder,Direct,Contributor,SharePoint Group, DCIT Members
+479,Projects/FREDA/Release Archive/FREDA Migration 2016/Project Plan,Folder,Direct,Reader,SharePoint Group, DCIT Visitors
+480,Projects/FREDA/Release Archive/FREDA Migration 2016/Project Plan,Folder,Direct,Editor,User, Anita Reedy
+481,Projects/FREDA/FREDA 2017/FREDA Release 6/Business Requirements,Folder,Direct,Contributor,User, Earshad Rahim
+482,Projects/FREDA/FREDA 2017/FREDA Release 6/Business Requirements,Folder,Direct,Contributor,User, Daniel Walsh
+483,Projects/FREDA/FREDA 2017/FREDA Release 6/Business Requirements,Folder,Direct,Contributor,User, Rhys Faulkner
+484,Projects/FREDA/FREDA 2017/FREDA Release 6/Business Requirements,Folder,Direct,Administrator,SharePoint Group, DCIT Owners
+485,Projects/FREDA/FREDA 2017/FREDA Release 6/Business Requirements,Folder,Direct,Contributor,SharePoint Group, DCIT Members
+486,Projects/FREDA/FREDA 2017/FREDA Release 6/Business Requirements,Folder,Direct,Reader,SharePoint Group, DCIT Visitors
+487,Projects/FREDA/FREDA 2017/FREDA Release 6/Business Requirements,Folder,Direct,Contributor,User, Anita Reedy
+488,SharedDocsLondon,Library,Direct,Guest,User, northwaveVPNuser
+489,SharedDocsLondon,Library,Direct,Guest,Domain Group (or user),c:0(.s|true
+490,SharedDocsLondon,Library,Direct,Guest,User, David Smith
+491,SharedDocsLondon,Library,Direct,Guest,User, Andrew Wild
+492,SharedDocsLondon,Library,Direct,Guest,User, Neil Ryder
+493,SharedDocsLondon,Library,Direct,Guest,User, Jaz Thomson
+494,SharedDocsLondon,Library,Direct,Guest,User, Kristina Staveckaite
+495,SharedDocsLondon,Library,Direct,Guest,User, Nicholas Bryant
+496,SharedDocsLondon,Library,Direct,Guest,User, Mark Davies
+497,SharedDocsLondon,Library,Direct,Guest,User, Chris Skinner
+498,SharedDocsLondon,Library,Direct,Guest,User, Rob Guy
+499,SharedDocsLondon,Library,Direct,Guest,User, Chris Shearing
+500,SharedDocsLondon,Library,Direct,Guest,User, Dan Roots
+501,SharedDocsLondon,Library,Direct,Guest,User, Jayson Cox
+502,SharedDocsLondon,Library,Direct,Guest,User, Earshad Rahim
+503,SharedDocsLondon,Library,Direct,Guest,User, Daniel Walsh
+504,SharedDocsLondon,Library,Direct,Guest,User, Chris Humphris
+505,SharedDocsLondon,Library,Direct,Guest,User, Mui Tze Tan
+506,SharedDocsLondon,Library,Direct,Guest,User, Rhys Faulkner
+507,SharedDocsLondon,Library,Direct,Guest,User, Akta Savla
+508,SharedDocsLondon,Library,Direct,Administrator Guest,SharePoint Group, DCIT Owners
+509,SharedDocsLondon,Library,Direct,Guest,User, Andrew Squires
+510,SharedDocsLondon,Library,Direct,Guest,User, Kok G Ng
+511,SharedDocsLondon,Library,Direct,Guest,User, Aidan Fee
+512,SharedDocsLondon,Library,Direct,Guest,User, Katy Gilligan
+513,SharedDocsLondon,Library,Direct,Reader,Domain Group (or user),c:0+.w|s-1-5-21-1363303857-1279047675-2850138303-3703
+514,SharedDocsLondon,Library,Direct,Guest,User, Tony Tong
+515,SharedDocsLondon,Library,Direct,Guest,User, Maria Gregorio
+516,SharedDocsLondon,Library,Direct,Guest,User, Yoke Yin Lee
+517,SharedDocsLondon,Library,Direct,Guest,User, David Smart
+518,SharedDocsLondon,Library,Direct,Guest,User, Mark Rogers
+519,SharedDocsLondon,Library,Direct,Guest,User, Brendan Kwok
+520,SharedDocsLondon,Library,Direct,Guest,User, Monica Kemp
+521,SharedDocsLondon,Library,Direct,Guest,User, Leon Chan
+522,SharedDocsLondon,Library,Direct,Guest,User, Danny Kong
+523,SharedDocsLondon,Library,Direct,Administrator,SharePoint Group, x_ITAdmin
+524,SharedDocsLondon,Library,Direct,Guest,User, Anita Reedy
+525,SharedDocsLondon,Library,Direct,Guest,User, Mary Gaughan
+526,SharedDocsLondon,Library,Direct,Contributor Guest,Domain Group (or user),c:0+.w|s-1-5-21-1363303857-1279047675-2850138303-3739
+527,SharedDocsLondon,Library,Direct,Guest,User, Li Teng Tan
+528,SharedDocsLondon,Library,Direct,Guest,User, Jack McGinty
+529,SharedDocsLondon,Library,Direct,Guest,User, Louis Pasigan
+530,SharedDocsLondon,Library,Direct,Guest,User, Brandon Kobayashi
+531,SharedDocsLondon,Library,Direct,Guest,User, Alvin Arumugam
+532,SharedDocsLondon,Library,Direct,Guest,User, Ted Cho
+533,SharedDocsLondon,Library,Direct,Guest,SharePoint Group, Intra_Everyone
+534,SharedDocsLondon,Library,Direct,Guest,User, Bareen Charitra
+535,SharedDocsLondon,Library,Direct,Guest,User, Paul O'Dwyer
+536,SharedDocsLondon,Library,Direct,Guest,User, Aditi Chopra
+537,SharedDocsLondon,Library,Direct,Guest,User, Phil Wood
+538,SharedDocsLondon,Library,Direct,Guest,User, Brian Cregan
+539,XXXDELETE,Library,Direct,Guest,User, northwaveVPNuser
+540,XXXDELETE,Library,Direct,Guest,Domain Group (or user),c:0(.s|true
+541,XXXDELETE,Library,Direct,Guest,User, David Smith
+542,XXXDELETE,Library,Direct,Guest,User, Andrew Wild
+543,XXXDELETE,Library,Direct,Guest,User, Neil Ryder
+544,XXXDELETE,Library,Direct,Guest,User, Jaz Thomson
+545,XXXDELETE,Library,Direct,Guest,User, Kristina Staveckaite
+546,XXXDELETE,Library,Direct,Guest,User, Nicholas Bryant
+547,XXXDELETE,Library,Direct,Guest,User, Mark Davies
+548,XXXDELETE,Library,Direct,Guest,User, Chris Skinner
+549,XXXDELETE,Library,Direct,Guest,User, Rob Guy
+550,XXXDELETE,Library,Direct,Guest,User, Chris Shearing
+551,XXXDELETE,Library,Direct,Guest,User, Dan Roots
+552,XXXDELETE,Library,Direct,Guest,User, Jayson Cox
+553,XXXDELETE,Library,Direct,Guest,User, Earshad Rahim
+554,XXXDELETE,Library,Direct,Guest,User, Daniel Walsh
+555,XXXDELETE,Library,Direct,Guest,User, Chris Humphris
+556,XXXDELETE,Library,Direct,Guest,User, Mui Tze Tan
+557,XXXDELETE,Library,Direct,Guest,User, Rhys Faulkner
+558,XXXDELETE,Library,Direct,Guest,User, Akta Savla
+559,XXXDELETE,Library,Direct,Administrator Guest,SharePoint Group, DCIT Owners
+560,XXXDELETE,Library,Direct,Editor Guest,SharePoint Group, DCIT Members
+561,XXXDELETE,Library,Direct,Reader Guest,SharePoint Group, DCIT Visitors
+562,XXXDELETE,Library,Direct,Guest,User, Andrew Squires
+563,XXXDELETE,Library,Direct,Guest,User, Kok G Ng
+564,XXXDELETE,Library,Direct,Guest,User, Aidan Fee
+565,XXXDELETE,Library,Direct,Guest,User, Katy Gilligan
+566,XXXDELETE,Library,Direct,Guest,Domain Group (or user),c:0+.w|s-1-5-21-1363303857-1279047675-2850138303-3703
+567,XXXDELETE,Library,Direct,Guest,User, Tony Tong
+568,XXXDELETE,Library,Direct,Guest,User, Maria Gregorio
+569,XXXDELETE,Library,Direct,Guest,User, Yoke Yin Lee
+570,XXXDELETE,Library,Direct,Guest,User, David Smart
+571,XXXDELETE,Library,Direct,Guest,User, Mark Rogers
+572,XXXDELETE,Library,Direct,Guest,User, Brendan Kwok
+573,XXXDELETE,Library,Direct,Guest,User, Monica Kemp
+574,XXXDELETE,Library,Direct,Guest,User, Leon Chan
+575,XXXDELETE,Library,Direct,Guest,User, Danny Kong
+576,XXXDELETE,Library,Direct,Administrator,SharePoint Group, x_ITAdmin
+577,XXXDELETE,Library,Direct,Guest,User, Anita Reedy
+578,XXXDELETE,Library,Direct,Guest,User, Mary Gaughan
+579,XXXDELETE,Library,Direct,Guest,Domain Group (or user),c:0+.w|s-1-5-21-1363303857-1279047675-2850138303-3739
+580,XXXDELETE,Library,Direct,Guest,User, Li Teng Tan
+581,XXXDELETE,Library,Direct,Guest,User, Jack McGinty
+582,XXXDELETE,Library,Direct,Guest,User, Louis Pasigan
+583,XXXDELETE,Library,Direct,Guest,User, Brandon Kobayashi
+584,XXXDELETE,Library,Direct,Guest,User, Alvin Arumugam
+585,XXXDELETE,Library,Direct,Guest,User, Ted Cho
+586,XXXDELETE,Library,Direct,Guest,SharePoint Group, Intra_Everyone
+587,XXXDELETE,Library,Direct,Guest,User, Bareen Charitra
+588,XXXDELETE,Library,Direct,Guest,User, Paul O'Dwyer
+589,XXXDELETE,Library,Direct,Guest,User, Aditi Chopra
+590,XXXDELETE,Library,Direct,Guest,User, Phil Wood
+591,XXXDELETE,Library,Direct,Guest,User, Brian Cregan
+592,XXXDELETE/Level_1/Level_2,Folder,Direct,Guest,User, northwaveVPNuser
+593,XXXDELETE/Level_1/Level_2,Folder,Direct,Guest,Domain Group (or user),c:0(.s|true
+594,XXXDELETE/Level_1/Level_2,Folder,Direct,Guest,User, David Smith
+595,XXXDELETE/Level_1/Level_2,Folder,Direct,Guest,User, Andrew Wild
+596,XXXDELETE/Level_1/Level_2,Folder,Direct,Guest,User, Neil Ryder
+597,XXXDELETE/Level_1/Level_2,Folder,Direct,Guest,User, Jaz Thomson
+598,XXXDELETE/Level_1/Level_2,Folder,Direct,Guest,User, Kristina Staveckaite
+599,XXXDELETE/Level_1/Level_2,Folder,Direct,Guest,User, Nicholas Bryant
+600,XXXDELETE/Level_1/Level_2,Folder,Direct,Guest,User, Mark Davies
+601,XXXDELETE/Level_1/Level_2,Folder,Direct,Guest,User, Chris Skinner
+602,XXXDELETE/Level_1/Level_2,Folder,Direct,Guest,User, Rob Guy
+603,XXXDELETE/Level_1/Level_2,Folder,Direct,Guest,User, Chris Shearing
+604,XXXDELETE/Level_1/Level_2,Folder,Direct,Guest,User, Dan Roots
+605,XXXDELETE/Level_1/Level_2,Folder,Direct,Guest,User, Jayson Cox
+606,XXXDELETE/Level_1/Level_2,Folder,Direct,Guest,User, Earshad Rahim
+607,XXXDELETE/Level_1/Level_2,Folder,Direct,Guest,User, Daniel Walsh
+608,XXXDELETE/Level_1/Level_2,Folder,Direct,Guest,User, Chris Humphris
+609,XXXDELETE/Level_1/Level_2,Folder,Direct,Guest,User, Mui Tze Tan
+610,XXXDELETE/Level_1/Level_2,Folder,Direct,Guest,User, Rhys Faulkner
+611,XXXDELETE/Level_1/Level_2,Folder,Direct,Guest,User, Akta Savla
+612,XXXDELETE/Level_1/Level_2,Folder,Direct,Administrator Guest,SharePoint Group, DCIT Owners
+613,XXXDELETE/Level_1/Level_2,Folder,Direct,Editor Guest,SharePoint Group, DCIT Members
+614,XXXDELETE/Level_1/Level_2,Folder,Direct,Reader Guest,SharePoint Group, DCIT Visitors
+615,XXXDELETE/Level_1/Level_2,Folder,Direct,Guest,User, Andrew Squires
+616,XXXDELETE/Level_1/Level_2,Folder,Direct,Guest,User, Kok G Ng
+617,XXXDELETE/Level_1/Level_2,Folder,Direct,Guest,User, Aidan Fee
+618,XXXDELETE/Level_1/Level_2,Folder,Direct,Guest,User, Katy Gilligan
+619,XXXDELETE/Level_1/Level_2,Folder,Direct,Guest,Domain Group (or user),c:0+.w|s-1-5-21-1363303857-1279047675-2850138303-3703
+620,XXXDELETE/Level_1/Level_2,Folder,Direct,Guest,User, Tony Tong
+621,XXXDELETE/Level_1/Level_2,Folder,Direct,Guest,User, Maria Gregorio
+622,XXXDELETE/Level_1/Level_2,Folder,Direct,Guest,User, Yoke Yin Lee
+623,XXXDELETE/Level_1/Level_2,Folder,Direct,Guest,User, David Smart
+624,XXXDELETE/Level_1/Level_2,Folder,Direct,Guest,User, Mark Rogers
+625,XXXDELETE/Level_1/Level_2,Folder,Direct,Guest,User, Brendan Kwok
+626,XXXDELETE/Level_1/Level_2,Folder,Direct,Guest,User, Monica Kemp
+627,XXXDELETE/Level_1/Level_2,Folder,Direct,Guest,User, Leon Chan
+628,XXXDELETE/Level_1/Level_2,Folder,Direct,Guest,User, Danny Kong
+629,XXXDELETE/Level_1/Level_2,Folder,Direct,Administrator,SharePoint Group, x_ITAdmin
+630,XXXDELETE/Level_1/Level_2,Folder,Direct,Guest,User, Anita Reedy
+631,XXXDELETE/Level_1/Level_2,Folder,Direct,Guest,User, Mary Gaughan
+632,XXXDELETE/Level_1/Level_2,Folder,Direct,Guest,Domain Group (or user),c:0+.w|s-1-5-21-1363303857-1279047675-2850138303-3739
+633,XXXDELETE/Level_1/Level_2,Folder,Direct,Guest,User, Li Teng Tan
+634,XXXDELETE/Level_1/Level_2,Folder,Direct,Guest,User, Jack McGinty
+635,XXXDELETE/Level_1/Level_2,Folder,Direct,Guest,User, Louis Pasigan
+636,XXXDELETE/Level_1/Level_2,Folder,Direct,Guest,User, Brandon Kobayashi
+637,XXXDELETE/Level_1/Level_2,Folder,Direct,Guest,User, Alvin Arumugam
+638,XXXDELETE/Level_1/Level_2,Folder,Direct,Guest,User, Ted Cho
+639,XXXDELETE/Level_1/Level_2,Folder,Direct,Guest,SharePoint Group, Intra_Everyone
+640,XXXDELETE/Level_1/Level_2,Folder,Direct,Guest,User, Bareen Charitra
+641,XXXDELETE/Level_1/Level_2,Folder,Direct,Guest,User, Paul O'Dwyer
+642,XXXDELETE/Level_1/Level_2,Folder,Direct,Guest,User, Aditi Chopra
+643,XXXDELETE/Level_1/Level_2,Folder,Direct,Guest,User, Phil Wood
+644,XXXDELETE/Level_1/Level_2,Folder,Direct,Guest,User, Brian Cregan
+645,XXXDELETE/Level_1/Level_2/Enterprise car club 201609 10038940.pdf,Document,Direct,Guest,User, northwaveVPNuser
+646,XXXDELETE/Level_1/Level_2/Enterprise car club 201609 10038940.pdf,Document,Direct,Guest,Domain Group (or user),c:0(.s|true
+647,XXXDELETE/Level_1/Level_2/Enterprise car club 201609 10038940.pdf,Document,Direct,Guest,User, David Smith
+648,XXXDELETE/Level_1/Level_2/Enterprise car club 201609 10038940.pdf,Document,Direct,Guest,User, Andrew Wild
+649,XXXDELETE/Level_1/Level_2/Enterprise car club 201609 10038940.pdf,Document,Direct,Guest,User, Neil Ryder
+650,XXXDELETE/Level_1/Level_2/Enterprise car club 201609 10038940.pdf,Document,Direct,Guest,User, Jaz Thomson
+651,XXXDELETE/Level_1/Level_2/Enterprise car club 201609 10038940.pdf,Document,Direct,Guest,User, Kristina Staveckaite
+652,XXXDELETE/Level_1/Level_2/Enterprise car club 201609 10038940.pdf,Document,Direct,Guest,User, Nicholas Bryant
+653,XXXDELETE/Level_1/Level_2/Enterprise car club 201609 10038940.pdf,Document,Direct,Guest,User, Mark Davies
+654,XXXDELETE/Level_1/Level_2/Enterprise car club 201609 10038940.pdf,Document,Direct,Guest,User, Chris Skinner
+655,XXXDELETE/Level_1/Level_2/Enterprise car club 201609 10038940.pdf,Document,Direct,Guest,User, Rob Guy
+656,XXXDELETE/Level_1/Level_2/Enterprise car club 201609 10038940.pdf,Document,Direct,Guest,User, Chris Shearing
+657,XXXDELETE/Level_1/Level_2/Enterprise car club 201609 10038940.pdf,Document,Direct,Guest,User, Dan Roots
+658,XXXDELETE/Level_1/Level_2/Enterprise car club 201609 10038940.pdf,Document,Direct,Guest,User, Jayson Cox
+659,XXXDELETE/Level_1/Level_2/Enterprise car club 201609 10038940.pdf,Document,Direct,Guest,User, Earshad Rahim
+660,XXXDELETE/Level_1/Level_2/Enterprise car club 201609 10038940.pdf,Document,Direct,Guest,User, Daniel Walsh
+661,XXXDELETE/Level_1/Level_2/Enterprise car club 201609 10038940.pdf,Document,Direct,Guest,User, Chris Humphris
+662,XXXDELETE/Level_1/Level_2/Enterprise car club 201609 10038940.pdf,Document,Direct,Guest,User, Mui Tze Tan
+663,XXXDELETE/Level_1/Level_2/Enterprise car club 201609 10038940.pdf,Document,Direct,Guest,User, Rhys Faulkner
+664,XXXDELETE/Level_1/Level_2/Enterprise car club 201609 10038940.pdf,Document,Direct,Guest,User, Akta Savla
+665,XXXDELETE/Level_1/Level_2/Enterprise car club 201609 10038940.pdf,Document,Direct,Administrator Guest,SharePoint Group, DCIT Owners
+666,XXXDELETE/Level_1/Level_2/Enterprise car club 201609 10038940.pdf,Document,Direct,Editor Guest,SharePoint Group, DCIT Members
+667,XXXDELETE/Level_1/Level_2/Enterprise car club 201609 10038940.pdf,Document,Direct,Reader Guest,SharePoint Group, DCIT Visitors
+668,XXXDELETE/Level_1/Level_2/Enterprise car club 201609 10038940.pdf,Document,Direct,Guest,User, Andrew Squires
+669,XXXDELETE/Level_1/Level_2/Enterprise car club 201609 10038940.pdf,Document,Direct,Guest,User, Kok G Ng
+670,XXXDELETE/Level_1/Level_2/Enterprise car club 201609 10038940.pdf,Document,Direct,Guest,User, Aidan Fee
+671,XXXDELETE/Level_1/Level_2/Enterprise car club 201609 10038940.pdf,Document,Direct,Guest,User, Katy Gilligan
+672,XXXDELETE/Level_1/Level_2/Enterprise car club 201609 10038940.pdf,Document,Direct,Guest,Domain Group (or user),c:0+.w|s-1-5-21-1363303857-1279047675-2850138303-3703
+673,XXXDELETE/Level_1/Level_2/Enterprise car club 201609 10038940.pdf,Document,Direct,Guest,User, Tony Tong
+674,XXXDELETE/Level_1/Level_2/Enterprise car club 201609 10038940.pdf,Document,Direct,Guest,User, Maria Gregorio
+675,XXXDELETE/Level_1/Level_2/Enterprise car club 201609 10038940.pdf,Document,Direct,Guest,User, Yoke Yin Lee
+676,XXXDELETE/Level_1/Level_2/Enterprise car club 201609 10038940.pdf,Document,Direct,Guest,User, David Smart
+677,XXXDELETE/Level_1/Level_2/Enterprise car club 201609 10038940.pdf,Document,Direct,Guest,User, Mark Rogers
+678,XXXDELETE/Level_1/Level_2/Enterprise car club 201609 10038940.pdf,Document,Direct,Guest,User, Brendan Kwok
+679,XXXDELETE/Level_1/Level_2/Enterprise car club 201609 10038940.pdf,Document,Direct,Guest,User, Monica Kemp
+680,XXXDELETE/Level_1/Level_2/Enterprise car club 201609 10038940.pdf,Document,Direct,Guest,User, Leon Chan
+681,XXXDELETE/Level_1/Level_2/Enterprise car club 201609 10038940.pdf,Document,Direct,Guest,User, Danny Kong
+682,XXXDELETE/Level_1/Level_2/Enterprise car club 201609 10038940.pdf,Document,Direct,Administrator,SharePoint Group, x_ITAdmin
+683,XXXDELETE/Level_1/Level_2/Enterprise car club 201609 10038940.pdf,Document,Direct,Guest,User, Anita Reedy
+684,XXXDELETE/Level_1/Level_2/Enterprise car club 201609 10038940.pdf,Document,Direct,Guest,User, Mary Gaughan
+685,XXXDELETE/Level_1/Level_2/Enterprise car club 201609 10038940.pdf,Document,Direct,Guest,Domain Group (or user),c:0+.w|s-1-5-21-1363303857-1279047675-2850138303-3739
+686,XXXDELETE/Level_1/Level_2/Enterprise car club 201609 10038940.pdf,Document,Direct,Guest,User, Li Teng Tan
+687,XXXDELETE/Level_1/Level_2/Enterprise car club 201609 10038940.pdf,Document,Direct,Guest,User, Jack McGinty
+688,XXXDELETE/Level_1/Level_2/Enterprise car club 201609 10038940.pdf,Document,Direct,Guest,User, Louis Pasigan
+689,XXXDELETE/Level_1/Level_2/Enterprise car club 201609 10038940.pdf,Document,Direct,Guest,User, Brandon Kobayashi
+690,XXXDELETE/Level_1/Level_2/Enterprise car club 201609 10038940.pdf,Document,Direct,Guest,User, Alvin Arumugam
+691,XXXDELETE/Level_1/Level_2/Enterprise car club 201609 10038940.pdf,Document,Direct,Guest,User, Ted Cho
+692,XXXDELETE/Level_1/Level_2/Enterprise car club 201609 10038940.pdf,Document,Direct,Guest,SharePoint Group, Intra_Everyone
+693,XXXDELETE/Level_1/Level_2/Enterprise car club 201609 10038940.pdf,Document,Direct,Guest,User, Bareen Charitra
+694,XXXDELETE/Level_1/Level_2/Enterprise car club 201609 10038940.pdf,Document,Direct,Guest,User, Paul O'Dwyer
+695,XXXDELETE/Level_1/Level_2/Enterprise car club 201609 10038940.pdf,Document,Direct,Guest,User, Aditi Chopra
+696,XXXDELETE/Level_1/Level_2/Enterprise car club 201609 10038940.pdf,Document,Direct,Guest,User, Phil Wood
+697,XXXDELETE/Level_1/Level_2/Enterprise car club 201609 10038940.pdf,Document,Direct,Guest,User, Brian Cregan
+698,XXXDELETE/Level_1/Level_2/enterprise Car Club 201610 10038940.pdf,Document,Direct,Guest,User, northwaveVPNuser
+699,XXXDELETE/Level_1/Level_2/enterprise Car Club 201610 10038940.pdf,Document,Direct,Guest,Domain Group (or user),c:0(.s|true
+700,XXXDELETE/Level_1/Level_2/enterprise Car Club 201610 10038940.pdf,Document,Direct,Guest,User, David Smith
+701,XXXDELETE/Level_1/Level_2/enterprise Car Club 201610 10038940.pdf,Document,Direct,Guest,User, Andrew Wild
+702,XXXDELETE/Level_1/Level_2/enterprise Car Club 201610 10038940.pdf,Document,Direct,Guest,User, Neil Ryder
+703,XXXDELETE/Level_1/Level_2/enterprise Car Club 201610 10038940.pdf,Document,Direct,Guest,User, Jaz Thomson
+704,XXXDELETE/Level_1/Level_2/enterprise Car Club 201610 10038940.pdf,Document,Direct,Guest,User, Kristina Staveckaite
+705,XXXDELETE/Level_1/Level_2/enterprise Car Club 201610 10038940.pdf,Document,Direct,Guest,User, Nicholas Bryant
+706,XXXDELETE/Level_1/Level_2/enterprise Car Club 201610 10038940.pdf,Document,Direct,Guest,User, Mark Davies
+707,XXXDELETE/Level_1/Level_2/enterprise Car Club 201610 10038940.pdf,Document,Direct,Guest,User, Chris Skinner
+708,XXXDELETE/Level_1/Level_2/enterprise Car Club 201610 10038940.pdf,Document,Direct,Guest,User, Rob Guy
+709,XXXDELETE/Level_1/Level_2/enterprise Car Club 201610 10038940.pdf,Document,Direct,Guest,User, Chris Shearing
+710,XXXDELETE/Level_1/Level_2/enterprise Car Club 201610 10038940.pdf,Document,Direct,Guest,User, Dan Roots
+711,XXXDELETE/Level_1/Level_2/enterprise Car Club 201610 10038940.pdf,Document,Direct,Guest,User, Jayson Cox
+712,XXXDELETE/Level_1/Level_2/enterprise Car Club 201610 10038940.pdf,Document,Direct,Guest,User, Earshad Rahim
+713,XXXDELETE/Level_1/Level_2/enterprise Car Club 201610 10038940.pdf,Document,Direct,Guest,User, Daniel Walsh
+714,XXXDELETE/Level_1/Level_2/enterprise Car Club 201610 10038940.pdf,Document,Direct,Guest,User, Chris Humphris
+715,XXXDELETE/Level_1/Level_2/enterprise Car Club 201610 10038940.pdf,Document,Direct,Guest,User, Mui Tze Tan
+716,XXXDELETE/Level_1/Level_2/enterprise Car Club 201610 10038940.pdf,Document,Direct,Guest,User, Rhys Faulkner
+717,XXXDELETE/Level_1/Level_2/enterprise Car Club 201610 10038940.pdf,Document,Direct,Guest,User, Akta Savla
+718,XXXDELETE/Level_1/Level_2/enterprise Car Club 201610 10038940.pdf,Document,Direct,Administrator Guest,SharePoint Group, DCIT Owners
+719,XXXDELETE/Level_1/Level_2/enterprise Car Club 201610 10038940.pdf,Document,Direct,Editor Guest,SharePoint Group, DCIT Members
+720,XXXDELETE/Level_1/Level_2/enterprise Car Club 201610 10038940.pdf,Document,Direct,Reader Guest,SharePoint Group, DCIT Visitors
+721,XXXDELETE/Level_1/Level_2/enterprise Car Club 201610 10038940.pdf,Document,Direct,Guest,User, Andrew Squires
+722,XXXDELETE/Level_1/Level_2/enterprise Car Club 201610 10038940.pdf,Document,Direct,Guest,User, Kok G Ng
+723,XXXDELETE/Level_1/Level_2/enterprise Car Club 201610 10038940.pdf,Document,Direct,Guest,User, Aidan Fee
+724,XXXDELETE/Level_1/Level_2/enterprise Car Club 201610 10038940.pdf,Document,Direct,Guest,User, Katy Gilligan
+725,XXXDELETE/Level_1/Level_2/enterprise Car Club 201610 10038940.pdf,Document,Direct,Guest,Domain Group (or user),c:0+.w|s-1-5-21-1363303857-1279047675-2850138303-3703
+726,XXXDELETE/Level_1/Level_2/enterprise Car Club 201610 10038940.pdf,Document,Direct,Guest,User, Tony Tong
+727,XXXDELETE/Level_1/Level_2/enterprise Car Club 201610 10038940.pdf,Document,Direct,Guest,User, Maria Gregorio
+728,XXXDELETE/Level_1/Level_2/enterprise Car Club 201610 10038940.pdf,Document,Direct,Guest,User, Yoke Yin Lee
+729,XXXDELETE/Level_1/Level_2/enterprise Car Club 201610 10038940.pdf,Document,Direct,Guest,User, David Smart
+730,XXXDELETE/Level_1/Level_2/enterprise Car Club 201610 10038940.pdf,Document,Direct,Guest,User, Mark Rogers
+731,XXXDELETE/Level_1/Level_2/enterprise Car Club 201610 10038940.pdf,Document,Direct,Guest,User, Brendan Kwok
+732,XXXDELETE/Level_1/Level_2/enterprise Car Club 201610 10038940.pdf,Document,Direct,Guest,User, Monica Kemp
+733,XXXDELETE/Level_1/Level_2/enterprise Car Club 201610 10038940.pdf,Document,Direct,Guest,User, Leon Chan
+734,XXXDELETE/Level_1/Level_2/enterprise Car Club 201610 10038940.pdf,Document,Direct,Guest,User, Danny Kong
+735,XXXDELETE/Level_1/Level_2/enterprise Car Club 201610 10038940.pdf,Document,Direct,Administrator,SharePoint Group, x_ITAdmin
+736,XXXDELETE/Level_1/Level_2/enterprise Car Club 201610 10038940.pdf,Document,Direct,Guest,User, Anita Reedy
+737,XXXDELETE/Level_1/Level_2/enterprise Car Club 201610 10038940.pdf,Document,Direct,Guest,User, Mary Gaughan
+738,XXXDELETE/Level_1/Level_2/enterprise Car Club 201610 10038940.pdf,Document,Direct,Guest,Domain Group (or user),c:0+.w|s-1-5-21-1363303857-1279047675-2850138303-3739
+739,XXXDELETE/Level_1/Level_2/enterprise Car Club 201610 10038940.pdf,Document,Direct,Guest,User, Li Teng Tan
+740,XXXDELETE/Level_1/Level_2/enterprise Car Club 201610 10038940.pdf,Document,Direct,Guest,User, Jack McGinty
+741,XXXDELETE/Level_1/Level_2/enterprise Car Club 201610 10038940.pdf,Document,Direct,Guest,User, Louis Pasigan
+742,XXXDELETE/Level_1/Level_2/enterprise Car Club 201610 10038940.pdf,Document,Direct,Guest,User, Brandon Kobayashi
+743,XXXDELETE/Level_1/Level_2/enterprise Car Club 201610 10038940.pdf,Document,Direct,Guest,User, Alvin Arumugam
+744,XXXDELETE/Level_1/Level_2/enterprise Car Club 201610 10038940.pdf,Document,Direct,Guest,User, Ted Cho
+745,XXXDELETE/Level_1/Level_2/enterprise Car Club 201610 10038940.pdf,Document,Direct,Guest,SharePoint Group, Intra_Everyone
+746,XXXDELETE/Level_1/Level_2/enterprise Car Club 201610 10038940.pdf,Document,Direct,Guest,User, Bareen Charitra
+747,XXXDELETE/Level_1/Level_2/enterprise Car Club 201610 10038940.pdf,Document,Direct,Guest,User, Paul O'Dwyer
+748,XXXDELETE/Level_1/Level_2/enterprise Car Club 201610 10038940.pdf,Document,Direct,Guest,User, Aditi Chopra
+749,XXXDELETE/Level_1/Level_2/enterprise Car Club 201610 10038940.pdf,Document,Direct,Guest,User, Phil Wood
+750,XXXDELETE/Level_1/Level_2/enterprise Car Club 201610 10038940.pdf,Document,Direct,Guest,User, Brian Cregan
+751,XXXDELETE/Level_1/Level_2/Enterprise car club 201608 10038940.pdf,Document,Direct,Guest,User, northwaveVPNuser
+752,XXXDELETE/Level_1/Level_2/Enterprise car club 201608 10038940.pdf,Document,Direct,Guest,Domain Group (or user),c:0(.s|true
+753,XXXDELETE/Level_1/Level_2/Enterprise car club 201608 10038940.pdf,Document,Direct,Guest,User, David Smith
+754,XXXDELETE/Level_1/Level_2/Enterprise car club 201608 10038940.pdf,Document,Direct,Guest,User, Andrew Wild
+755,XXXDELETE/Level_1/Level_2/Enterprise car club 201608 10038940.pdf,Document,Direct,Guest,User, Neil Ryder
+756,XXXDELETE/Level_1/Level_2/Enterprise car club 201608 10038940.pdf,Document,Direct,Guest,User, Jaz Thomson
+757,XXXDELETE/Level_1/Level_2/Enterprise car club 201608 10038940.pdf,Document,Direct,Guest,User, Kristina Staveckaite
+758,XXXDELETE/Level_1/Level_2/Enterprise car club 201608 10038940.pdf,Document,Direct,Guest,User, Nicholas Bryant
+759,XXXDELETE/Level_1/Level_2/Enterprise car club 201608 10038940.pdf,Document,Direct,Guest,User, Mark Davies
+760,XXXDELETE/Level_1/Level_2/Enterprise car club 201608 10038940.pdf,Document,Direct,Guest,User, Chris Skinner
+761,XXXDELETE/Level_1/Level_2/Enterprise car club 201608 10038940.pdf,Document,Direct,Guest,User, Rob Guy
+762,XXXDELETE/Level_1/Level_2/Enterprise car club 201608 10038940.pdf,Document,Direct,Guest,User, Chris Shearing
+763,XXXDELETE/Level_1/Level_2/Enterprise car club 201608 10038940.pdf,Document,Direct,Guest,User, Dan Roots
+764,XXXDELETE/Level_1/Level_2/Enterprise car club 201608 10038940.pdf,Document,Direct,Guest,User, Jayson Cox
+765,XXXDELETE/Level_1/Level_2/Enterprise car club 201608 10038940.pdf,Document,Direct,Guest,User, Earshad Rahim
+766,XXXDELETE/Level_1/Level_2/Enterprise car club 201608 10038940.pdf,Document,Direct,Guest,User, Daniel Walsh
+767,XXXDELETE/Level_1/Level_2/Enterprise car club 201608 10038940.pdf,Document,Direct,Guest,User, Chris Humphris
+768,XXXDELETE/Level_1/Level_2/Enterprise car club 201608 10038940.pdf,Document,Direct,Guest,User, Mui Tze Tan
+769,XXXDELETE/Level_1/Level_2/Enterprise car club 201608 10038940.pdf,Document,Direct,Guest,User, Rhys Faulkner
+770,XXXDELETE/Level_1/Level_2/Enterprise car club 201608 10038940.pdf,Document,Direct,Guest,User, Akta Savla
+771,XXXDELETE/Level_1/Level_2/Enterprise car club 201608 10038940.pdf,Document,Direct,Administrator Guest,SharePoint Group, DCIT Owners
+772,XXXDELETE/Level_1/Level_2/Enterprise car club 201608 10038940.pdf,Document,Direct,Editor Guest,SharePoint Group, DCIT Members
+773,XXXDELETE/Level_1/Level_2/Enterprise car club 201608 10038940.pdf,Document,Direct,Reader Guest,SharePoint Group, DCIT Visitors
+774,XXXDELETE/Level_1/Level_2/Enterprise car club 201608 10038940.pdf,Document,Direct,Guest,User, Andrew Squires
+775,XXXDELETE/Level_1/Level_2/Enterprise car club 201608 10038940.pdf,Document,Direct,Guest,User, Kok G Ng
+776,XXXDELETE/Level_1/Level_2/Enterprise car club 201608 10038940.pdf,Document,Direct,Guest,User, Aidan Fee
+777,XXXDELETE/Level_1/Level_2/Enterprise car club 201608 10038940.pdf,Document,Direct,Guest,User, Katy Gilligan
+778,XXXDELETE/Level_1/Level_2/Enterprise car club 201608 10038940.pdf,Document,Direct,Guest,Domain Group (or user),c:0+.w|s-1-5-21-1363303857-1279047675-2850138303-3703
+779,XXXDELETE/Level_1/Level_2/Enterprise car club 201608 10038940.pdf,Document,Direct,Guest,User, Tony Tong
+780,XXXDELETE/Level_1/Level_2/Enterprise car club 201608 10038940.pdf,Document,Direct,Guest,User, Maria Gregorio
+781,XXXDELETE/Level_1/Level_2/Enterprise car club 201608 10038940.pdf,Document,Direct,Guest,User, Yoke Yin Lee
+782,XXXDELETE/Level_1/Level_2/Enterprise car club 201608 10038940.pdf,Document,Direct,Guest,User, David Smart
+783,XXXDELETE/Level_1/Level_2/Enterprise car club 201608 10038940.pdf,Document,Direct,Guest,User, Mark Rogers
+784,XXXDELETE/Level_1/Level_2/Enterprise car club 201608 10038940.pdf,Document,Direct,Guest,User, Brendan Kwok
+785,XXXDELETE/Level_1/Level_2/Enterprise car club 201608 10038940.pdf,Document,Direct,Guest,User, Monica Kemp
+786,XXXDELETE/Level_1/Level_2/Enterprise car club 201608 10038940.pdf,Document,Direct,Guest,User, Leon Chan
+787,XXXDELETE/Level_1/Level_2/Enterprise car club 201608 10038940.pdf,Document,Direct,Guest,User, Danny Kong
+788,XXXDELETE/Level_1/Level_2/Enterprise car club 201608 10038940.pdf,Document,Direct,Administrator,SharePoint Group, x_ITAdmin
+789,XXXDELETE/Level_1/Level_2/Enterprise car club 201608 10038940.pdf,Document,Direct,Guest,User, Anita Reedy
+790,XXXDELETE/Level_1/Level_2/Enterprise car club 201608 10038940.pdf,Document,Direct,Guest,User, Mary Gaughan
+791,XXXDELETE/Level_1/Level_2/Enterprise car club 201608 10038940.pdf,Document,Direct,Guest,Domain Group (or user),c:0+.w|s-1-5-21-1363303857-1279047675-2850138303-3739
+792,XXXDELETE/Level_1/Level_2/Enterprise car club 201608 10038940.pdf,Document,Direct,Guest,User, Li Teng Tan
+793,XXXDELETE/Level_1/Level_2/Enterprise car club 201608 10038940.pdf,Document,Direct,Guest,User, Jack McGinty
+794,XXXDELETE/Level_1/Level_2/Enterprise car club 201608 10038940.pdf,Document,Direct,Guest,User, Louis Pasigan
+795,XXXDELETE/Level_1/Level_2/Enterprise car club 201608 10038940.pdf,Document,Direct,Guest,User, Brandon Kobayashi
+796,XXXDELETE/Level_1/Level_2/Enterprise car club 201608 10038940.pdf,Document,Direct,Guest,User, Alvin Arumugam
+797,XXXDELETE/Level_1/Level_2/Enterprise car club 201608 10038940.pdf,Document,Direct,Guest,User, Ted Cho
+798,XXXDELETE/Level_1/Level_2/Enterprise car club 201608 10038940.pdf,Document,Direct,Guest,SharePoint Group, Intra_Everyone
+799,XXXDELETE/Level_1/Level_2/Enterprise car club 201608 10038940.pdf,Document,Direct,Guest,User, Bareen Charitra
+800,XXXDELETE/Level_1/Level_2/Enterprise car club 201608 10038940.pdf,Document,Direct,Guest,User, Paul O'Dwyer
+801,XXXDELETE/Level_1/Level_2/Enterprise car club 201608 10038940.pdf,Document,Direct,Guest,User, Aditi Chopra
+802,XXXDELETE/Level_1/Level_2/Enterprise car club 201608 10038940.pdf,Document,Direct,Guest,User, Phil Wood
+803,XXXDELETE/Level_1/Level_2/Enterprise car club 201608 10038940.pdf,Document,Direct,Guest,User, Brian Cregan
+804,XXXDELETE/Level_1/Level_2/Enterprise car club 201607 - 10038940.pdf,Document,Direct,Guest,User, northwaveVPNuser
+805,XXXDELETE/Level_1/Level_2/Enterprise car club 201607 - 10038940.pdf,Document,Direct,Guest,Domain Group (or user),c:0(.s|true
+806,XXXDELETE/Level_1/Level_2/Enterprise car club 201607 - 10038940.pdf,Document,Direct,Guest,User, David Smith
+807,XXXDELETE/Level_1/Level_2/Enterprise car club 201607 - 10038940.pdf,Document,Direct,Guest,User, Andrew Wild
+808,XXXDELETE/Level_1/Level_2/Enterprise car club 201607 - 10038940.pdf,Document,Direct,Guest,User, Neil Ryder
+809,XXXDELETE/Level_1/Level_2/Enterprise car club 201607 - 10038940.pdf,Document,Direct,Guest,User, Jaz Thomson
+810,XXXDELETE/Level_1/Level_2/Enterprise car club 201607 - 10038940.pdf,Document,Direct,Guest,User, Kristina Staveckaite
+811,XXXDELETE/Level_1/Level_2/Enterprise car club 201607 - 10038940.pdf,Document,Direct,Guest,User, Nicholas Bryant
+812,XXXDELETE/Level_1/Level_2/Enterprise car club 201607 - 10038940.pdf,Document,Direct,Guest,User, Mark Davies
+813,XXXDELETE/Level_1/Level_2/Enterprise car club 201607 - 10038940.pdf,Document,Direct,Guest,User, Chris Skinner
+814,XXXDELETE/Level_1/Level_2/Enterprise car club 201607 - 10038940.pdf,Document,Direct,Guest,User, Rob Guy
+815,XXXDELETE/Level_1/Level_2/Enterprise car club 201607 - 10038940.pdf,Document,Direct,Guest,User, Chris Shearing
+816,XXXDELETE/Level_1/Level_2/Enterprise car club 201607 - 10038940.pdf,Document,Direct,Guest,User, Dan Roots
+817,XXXDELETE/Level_1/Level_2/Enterprise car club 201607 - 10038940.pdf,Document,Direct,Guest,User, Jayson Cox
+818,XXXDELETE/Level_1/Level_2/Enterprise car club 201607 - 10038940.pdf,Document,Direct,Guest,User, Earshad Rahim
+819,XXXDELETE/Level_1/Level_2/Enterprise car club 201607 - 10038940.pdf,Document,Direct,Guest,User, Daniel Walsh
+820,XXXDELETE/Level_1/Level_2/Enterprise car club 201607 - 10038940.pdf,Document,Direct,Guest,User, Chris Humphris
+821,XXXDELETE/Level_1/Level_2/Enterprise car club 201607 - 10038940.pdf,Document,Direct,Guest,User, Mui Tze Tan
+822,XXXDELETE/Level_1/Level_2/Enterprise car club 201607 - 10038940.pdf,Document,Direct,Guest,User, Rhys Faulkner
+823,XXXDELETE/Level_1/Level_2/Enterprise car club 201607 - 10038940.pdf,Document,Direct,Guest,User, Akta Savla
+824,XXXDELETE/Level_1/Level_2/Enterprise car club 201607 - 10038940.pdf,Document,Direct,Administrator Guest,SharePoint Group, DCIT Owners
+825,XXXDELETE/Level_1/Level_2/Enterprise car club 201607 - 10038940.pdf,Document,Direct,Editor Guest,SharePoint Group, DCIT Members
+826,XXXDELETE/Level_1/Level_2/Enterprise car club 201607 - 10038940.pdf,Document,Direct,Reader Guest,SharePoint Group, DCIT Visitors
+827,XXXDELETE/Level_1/Level_2/Enterprise car club 201607 - 10038940.pdf,Document,Direct,Guest,User, Andrew Squires
+828,XXXDELETE/Level_1/Level_2/Enterprise car club 201607 - 10038940.pdf,Document,Direct,Guest,User, Kok G Ng
+829,XXXDELETE/Level_1/Level_2/Enterprise car club 201607 - 10038940.pdf,Document,Direct,Guest,User, Aidan Fee
+830,XXXDELETE/Level_1/Level_2/Enterprise car club 201607 - 10038940.pdf,Document,Direct,Guest,User, Katy Gilligan
+831,XXXDELETE/Level_1/Level_2/Enterprise car club 201607 - 10038940.pdf,Document,Direct,Guest,Domain Group (or user),c:0+.w|s-1-5-21-1363303857-1279047675-2850138303-3703
+832,XXXDELETE/Level_1/Level_2/Enterprise car club 201607 - 10038940.pdf,Document,Direct,Guest,User, Tony Tong
+833,XXXDELETE/Level_1/Level_2/Enterprise car club 201607 - 10038940.pdf,Document,Direct,Guest,User, Maria Gregorio
+834,XXXDELETE/Level_1/Level_2/Enterprise car club 201607 - 10038940.pdf,Document,Direct,Guest,User, Yoke Yin Lee
+835,XXXDELETE/Level_1/Level_2/Enterprise car club 201607 - 10038940.pdf,Document,Direct,Guest,User, David Smart
+836,XXXDELETE/Level_1/Level_2/Enterprise car club 201607 - 10038940.pdf,Document,Direct,Guest,User, Mark Rogers
+837,XXXDELETE/Level_1/Level_2/Enterprise car club 201607 - 10038940.pdf,Document,Direct,Guest,User, Brendan Kwok
+838,XXXDELETE/Level_1/Level_2/Enterprise car club 201607 - 10038940.pdf,Document,Direct,Guest,User, Monica Kemp
+839,XXXDELETE/Level_1/Level_2/Enterprise car club 201607 - 10038940.pdf,Document,Direct,Guest,User, Leon Chan
+840,XXXDELETE/Level_1/Level_2/Enterprise car club 201607 - 10038940.pdf,Document,Direct,Guest,User, Danny Kong
+841,XXXDELETE/Level_1/Level_2/Enterprise car club 201607 - 10038940.pdf,Document,Direct,Administrator,SharePoint Group, x_ITAdmin
+842,XXXDELETE/Level_1/Level_2/Enterprise car club 201607 - 10038940.pdf,Document,Direct,Guest,User, Anita Reedy
+843,XXXDELETE/Level_1/Level_2/Enterprise car club 201607 - 10038940.pdf,Document,Direct,Guest,User, Mary Gaughan
+844,XXXDELETE/Level_1/Level_2/Enterprise car club 201607 - 10038940.pdf,Document,Direct,Guest,Domain Group (or user),c:0+.w|s-1-5-21-1363303857-1279047675-2850138303-3739
+845,XXXDELETE/Level_1/Level_2/Enterprise car club 201607 - 10038940.pdf,Document,Direct,Guest,User, Li Teng Tan
+846,XXXDELETE/Level_1/Level_2/Enterprise car club 201607 - 10038940.pdf,Document,Direct,Guest,User, Jack McGinty
+847,XXXDELETE/Level_1/Level_2/Enterprise car club 201607 - 10038940.pdf,Document,Direct,Guest,User, Louis Pasigan
+848,XXXDELETE/Level_1/Level_2/Enterprise car club 201607 - 10038940.pdf,Document,Direct,Guest,User, Brandon Kobayashi
+849,XXXDELETE/Level_1/Level_2/Enterprise car club 201607 - 10038940.pdf,Document,Direct,Guest,User, Alvin Arumugam
+850,XXXDELETE/Level_1/Level_2/Enterprise car club 201607 - 10038940.pdf,Document,Direct,Guest,User, Ted Cho
+851,XXXDELETE/Level_1/Level_2/Enterprise car club 201607 - 10038940.pdf,Document,Direct,Guest,SharePoint Group, Intra_Everyone
+852,XXXDELETE/Level_1/Level_2/Enterprise car club 201607 - 10038940.pdf,Document,Direct,Guest,User, Bareen Charitra
+853,XXXDELETE/Level_1/Level_2/Enterprise car club 201607 - 10038940.pdf,Document,Direct,Guest,User, Paul O'Dwyer
+854,XXXDELETE/Level_1/Level_2/Enterprise car club 201607 - 10038940.pdf,Document,Direct,Guest,User, Aditi Chopra
+855,XXXDELETE/Level_1/Level_2/Enterprise car club 201607 - 10038940.pdf,Document,Direct,Guest,User, Phil Wood
+856,XXXDELETE/Level_1/Level_2/Enterprise car club 201607 - 10038940.pdf,Document,Direct,Guest,User, Brian Cregan

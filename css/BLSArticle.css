@@ -1,0 +1,59 @@
+﻿h1, h2, h3, h4, h5 {
+	font-weight: bold !important;
+	font-family: "Segoe UI","Segoe",Tahoma,Helvetica,Arial,sans-serif !important;
+}
+/*ARTICLE*/
+.blsarticleitem {
+}
+.blsarticleitem, .socialnewsitem {
+	margin: 15px 0;
+	clear: both;
+	display: block;
+	font-size: 12px !important;
+	overflow: hidden;
+}
+.blsarticleitem h2, .socialnewsitem h2 {
+	color: teal;
+}
+.blsarticleitem .imagecontainer {
+	float: left; 
+	height:85px;
+	width:85px;
+	margin-right: 10px;
+	padding-bottom: 10px;
+	overflow: hidden;
+}
+.socialnewsitem .imagecontainer {
+	float: left; 
+	width: 20%;
+	margin-right: 20px;
+	padding-bottom: 5px;
+	overflow: hidden;
+}
+
+
+.blsarticleitem .imagecontainer img {
+	height: 100%;
+	width: auto;
+}
+.blsarticleitem .detailcontainer span, .contentcontainer {
+	line-height: 1.6 !important;
+	color: #777;
+	font-size: 12px;
+	font-family: "Segoe UI","Segoe",Tahoma,Helvetica,Arial,sans-serif !important;
+}
+.blsarticleitem .date, .socialnewsitem .date {
+	display: block;
+	float: right;
+}
+.blsarticleitem .author, .socialnewsitem .author {
+	display: block;
+	float: right;
+}
+.socialnewsitem .imagecontainer {
+	width: 100%;
+}
+.socialnewsitem .imagecontainer img {
+	width: 100%;
+	/*height: auto;*/
+}

@@ -1,0 +1,411 @@
+<link rel="stylesheet" type="text/css" href="/_catalogs/masterpage/bls/font/font-awesome-5.0.2/css/fontawesome-all.min.css">
+<link rel="stylesheet" type="text/css" href="/_catalogs/masterpage/bls/DC-ITSecurity/ITSR_CSS.css">
+<link rel="stylesheet" type="text/css" href="/_catalogs/masterpage/bls/css/dc.min.css">
+
+<script type="text/javascript" src="/_catalogs/masterpage/bls/js/jquery-3.1.0.min.js"></script>
+<script type="text/javascript" src="/_catalogs/masterpage/bls/js/FileSaver.min.js"></script>
+<script type="text/javascript" src="/_catalogs/masterpage/bls/js/moment.min.js"></script>
+<script type="text/javascript" src="/_catalogs/masterpage/bls/js/momentdurationplugin.js"></script>
+<script type="text/javascript" src="/_catalogs/masterpage/bls/js/UtilityFunctions-JSP.js"></script>
+<script type="text/javascript" src="/_catalogs/masterpage/bls/js/jquery.SPServices-2014.02.min.js"></script>
+<script type="text/javascript" src="/_catalogs/masterpage/bls/DC-ITSecurity/ITSR_UtilityFunctions.js"></script>
+<script type="text/javascript" src="/_catalogs/masterpage/bls/js/UF_UITable.js"></script>
+<script type="text/javascript" src="/_catalogs/masterpage/bls/DC-ITSecurity/ITSR_UITableDefs.js"></script>
+
+<script src="/_catalogs/masterpage/bls/js/d3.js"></script>
+<script src="/_catalogs/masterpage/bls/js/crossfilter.js"></script>
+<script src="/_catalogs/masterpage/bls/js/dc.js"></script>
+
+<script type="text/javascript" src="/_catalogs/masterpage/bls/DC-ITSecurity/SunBurstDCx.js"></script>
+
+
+
+
+<style>
+  .dc-chart text.pie-slice {
+    fill: #000000;
+    font-size: 0.75rem;
+    font-weight: 600;
+  }
+
+  #toppanel,
+  #middlepanel,
+  #chartContainer {
+    width: 100%;
+    float: left;
+  }
+
+  #liveItems {
+    width: 100%;
+    float: left;
+  }
+
+  .onethird {
+    width: 33%;
+    float: left;
+    padding-top: 5px;
+  }
+
+  .twothirds {
+    width: 66%;
+    float: left;
+    padding-top: 5px;
+  }
+
+  .onefifth {
+    width: 19%;
+    float: left;
+    padding-top: 5px;
+    border: 1px solid green;
+  }
+
+  .twofifths {
+    width: 39%;
+    float: left;
+    padding-top: 5px;
+    border: 1px solid rgb(126, 128, 0);
+  }
+  
+
+  .threefifths {
+    width: 59%;
+    float: left;
+    padding-top: 5px;
+    border: 1px solid rgb(128, 77, 0);
+  }
+
+  .fourfifths {
+    width: 79%;
+    float: left;
+    padding-top: 5px;
+  }
+
+  .onequarter {
+    width: 24%;
+    float: left;
+    padding-top: 5px;
+  }
+
+  .threequarters {
+    width: 75%;
+    float: left;
+    padding-top: 5px;
+  }
+
+  .half {
+    width: 50%;
+    float: left;
+    padding-top: 5px;
+  }
+
+  .one {
+    float: left;
+    width: 100%;
+    padding-top: 10px;
+  }
+
+  .pie-slice path {
+    stroke: #fff;
+  }
+
+  .dc-chart .selected path {
+    stroke-width: 1.5;
+    stroke: #fff;
+  }
+
+  path {
+    stroke: #fff;
+  }
+
+  #main {
+    width: 100%;
+    float: left;
+  }
+
+  #chartleft {
+    width: 45%;
+    float: left;
+    border: 1px solid palegoldenrod;
+  }
+
+  #chartright {
+    width: 50%;
+    float: left;
+    border: 1px solid plum;
+  }
+
+  #sequence {
+    width: 600px;
+    height: 70px;
+  }
+
+  #legend {
+    padding: 10px 0 0 3px;
+  }
+
+  #sequence text,
+  #legend text {
+    font-weight: 600;
+    fill: #fff;
+  }
+
+  #chart {
+    position: relative;
+  }
+
+  #chart path {
+    stroke: #fff;
+  }
+
+  #explanation {
+    position: absolute;
+    top: 220px;
+    left: 430px;
+    width: 140px;
+    text-align: center;
+    color: #404046;
+    z-index: 1;
+  }
+
+  #percentage {
+    font-size: 2.5em;
+  }
+
+  #stagetable {
+    width: 149px;
+    height: 490px;
+    float: left;
+    font-size: 0.88rem;
+    font-weight: 600;
+  }
+
+  #stagetable div {
+    padding-top: 32px;
+    padding-bottom: 9px;
+  }
+
+  #liveItems .livebar {
+    border-left: 1px solid gainsboro;
+    float: left;
+    height: 90px;
+  }
+
+  .dc-chart svg g.pie-label-group text {
+    fill: black;
+    font-size: 0.88rem;
+    font-weight: 600;
+
+  }
+
+  .dc-chart svg g.dc-legend-item text {
+    fill: black;
+    font-size: 0.88rem;
+    font-weight: 600;
+  }
+
+  .dc-chart svg g.y g.tick text {
+    fill: black;
+    font-size: 0.88rem;
+    font-weight: 600;
+  }
+
+  .dc-chart svg g.row text {
+    fill: black;
+    font-size: 0.88rem;
+    font-weight: 600;
+  }
+
+  .dc-legend-item text,
+  .dc-cbox-item {
+    fill: black;
+    font-size: 0.88rem;
+    font-weight: 600;
+  }
+
+  .charttitle {
+    margin: 1px;
+  }
+
+  #Headline {
+    font-size: 2rem;
+    font-weight: 700;
+  }
+
+  #Headline .p1 {
+    font-size: 10rem;
+    font-weight: 700;
+    color: grey;
+  }
+
+  #Headline .p2 {
+    font-size: 8rem;
+    font-weight: 600;
+    color: grey;
+  }
+
+  .bl0 {
+    top: 7px;
+  }
+
+  .bl1 {
+    top: 35px;
+  }
+
+  .bl2 {
+    top: 63px;
+  }
+
+  .bl3 {
+    top: 86px;
+  }
+
+  .bl4 {
+    top: 114px;
+  }
+
+  .bl5 {
+    top: 142px;
+  }
+
+  .bl6 {
+    top: 170px;
+  }
+
+  .bl7 {
+    top: 198px;
+  }
+
+  .bl8 {
+    top: 226px;
+  }
+
+  .bl9 {
+    top: 254px;
+  }
+
+  h3.clickable {
+    padding-top: 5px;
+    background-color: rgb(199, 196, 174);
+    width: 100%;
+    font-weight: 500;
+    display: inline-block;
+    margin-top: 5px;
+  }
+
+  .dc-chart select {
+    width: 300px;
+  }
+
+  #BUpieChart {
+    width: 405px;
+    border: 1px solid green;
+  }
+
+
+  .chartblock .charttitle {
+    width: 100%;
+    float: left;
+    margin-top: 5px;
+    font-size: 1.2rem;
+    font-weight: 600;
+  }
+
+  .chartblock {
+    float: left;
+    border: 1px solid goldenrod;
+
+  }
+
+  .highlighted {
+    color: rgb(61, 61, 65);
+    background-color: rgb(255, 209, 124)
+  }
+
+
+  .searchbox {
+    width: 100%;
+  }
+
+  .dc-cbox-group li {
+    list-style-type: none;
+    padding-top: 0;
+    margin: 0;
+  }
+
+  .dc-cbox-group li:last-child {
+    display: none;
+
+  }
+
+  .dc-cbox-group li label {
+    font-size: 0.88rem;
+    font-weight: 500;
+    padding: 7px 0 0 10px;
+  }
+
+
+
+  #ByUser {
+    height: 300px;
+    width: 90%;
+    padding: 10px;
+    overflow-y: scroll;
+  }
+
+  #ByUser li.muted {
+    display: none;
+  }
+
+
+
+
+</style>
+
+<div id="main">
+  <h1>Site Security Analysis</h1>
+  <h2 id='sitename'></h2>
+  <div class='onefifth' id="Chart1">
+    <div id="test2"></div>
+  </div>
+  <div class='twofifths'>
+    <div id="sunburst"></div>
+    <div id="sequence"></div>
+  </div>
+  <div class='twofifths'>
+    <div id='libs'></div>
+  </div>
+</div>
+
+<h1>Site Unique Permissions</h1>
+<div id='JSPPageContent' data-mode="frontend">
+  <div class="one">
+    <div class='chartblock onefifth' id="Chart1">
+      <div class='charttitle'>Libraries and folders:</div>
+      <div id="ByFolder"></div>
+      <div class='charttitle'>Level of permission:</div>
+      <div id="ByRole"></div>
+      <div class='charttitle'>Permission Granted to</div>
+      <div id="ByKind"></div>
+    </div>
+    <div class='chartblock onefifth' id="Chart2">
+      <div class='charttitle'>Permission granted through:</div>
+      <div id="ByGroup"></div>
+      <div class='charttitle'>Type of allocation:</div>
+      <div id="ByType"></div>
+      <div class='charttitle'>Filter by user:</div>
+      <div id='inputfilter'></div>
+      <div id="ByUser"></div>
+    </div>
+    <div class='chartblock threefifths' id="Chart11">
+      <div class='charttitle' id='dc-datacount'></div>
+      <div id='datatable'></div>
+    </div>
+  </div>
+</div>
+
+
+
+<div id='debuginfo'>
+  <i class="far fa-window-minimize"></i>
+</div>
+<div id='versioninfo' data-page="dmo"></div>

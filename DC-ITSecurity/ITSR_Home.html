@@ -1,0 +1,247 @@
+<link rel="stylesheet" href="/_catalogs/masterpage/bls/font/font-awesome-5.0.2/css/fontawesome-all.min.css">
+<link rel="stylesheet" href="/_catalogs/masterpage/bls/DC-ITSecurity/ITSR_CSS.css">
+
+<script type="text/javascript" src="/_catalogs/masterpage/bls/js/jquery-3.1.0.min.js"></script>
+
+<script type="text/javascript" src="/_catalogs/masterpage/bls/js/moment.min.js"></script>
+<script type="text/javascript" src="/_catalogs/masterpage/bls/js/momentdurationplugin.js"></script>
+<script type="text/javascript" src="/_catalogs/masterpage/bls/js/UtilityFunctions-JSP.js"></script>
+<script type="text/javascript" src="/_catalogs/masterpage/bls/DC-ITSecurity/ITSR_UITableDefs.js"></script>
+<script type="text/javascript" src="/_catalogs/masterpage/bls/js/UF_UITable.js"></script>
+<script type="text/javascript" src="/_catalogs/masterpage/bls/js/underscore-min.js"></script>
+<script type="text/javascript" src="/_catalogs/masterpage/bls/js/jquery.SPServices-2014.02.min.js"></script>
+
+<script type="text/javascript" src="/_catalogs/masterpage/bls/DC-ITSecurity/ITSR_QueryDefns.js"></script>
+<script type="text/javascript" src="/_catalogs/masterpage/bls/DC-ITSecurity/ITSR_UtilityFunctions.js"></script>
+<script type="text/javascript" src="/_catalogs/masterpage/bls/DC-ITSecurity/ITSR_Home.js"></script>
+
+
+
+<style>
+    .filterpopup {
+        display: none;
+        position: absolute;
+        width: 250px;
+        background-color: rgb(234, 243, 247);
+        border: 2px solid rgb(94, 99, 104);
+        font-size: 0.75rem;
+        border-radius: 5px;
+        margin: 30px;
+        padding: 5px 10px;
+    }
+    
+    .active {
+        color: rgb(180, 1, 1);
+        font-weight: 900;
+    }
+    
+    .number {
+        text-align: right;
+        padding-right: 15px;
+        font-weight: 500;
+    }
+    
+    .numbernototal {
+        text-align: right;
+        padding-right: 15px;
+        font-weight: 500;
+    }
+    
+    .listoutput tbody tr {
+        height: 1.4rem;
+    }
+    
+    .listoutput tbody tr:hover {
+        background-color: rgb(193, 195, 216);
+    }
+    
+    .editLink {
+        font-weight: 600;
+        cursor: pointer;
+    }
+    
+    #scriptWPQ3 i {
+        Color: rgb(167, 3, 3);
+    }
+    
+    .multiselect {
+        width: 95%;
+        overflow: auto;
+        font-size: 0.9rem;
+        font-weight: 600;
+        border: 1px solid silver;
+    }
+    
+    #onetidDoclibViewTbl0 {
+        display: none;
+    }
+    
+    .multiselect h2 {
+        padding: 5px;
+    }
+    
+    .multiselect label {
+        display: block;
+        padding: 5px;
+        color: #505050;
+        background-color: rgba(43, 37, 71, 0.1);
+        border-top: 1px solid gainsboro;
+    }
+    
+    .multiselect label.multiselect-on {
+        color: #ffffff;
+        background-color: rgba(43, 37, 71, 0.6);
+    }
+    
+    .filtered-out {
+        display: none;
+    }
+    
+    .sqr {
+        border: 2px solid silver;
+        height: 25px;
+        width: 25px;
+        border-radius: 7px;
+        float: left;
+        margin: 1px 5px 1px 1px;
+    }
+    
+    .sqr.b1 {
+        background-color: rgb(186, 219, 219)
+    }
+    
+    .sqr.b2 {
+        background-color: rgb(92, 201, 201)
+    }
+    
+    .sqr.b3 {
+        background-color: rgb(51, 115, 139)
+    }
+    
+    .sqr.b4 {
+        background-color: rgb(202, 181, 62)
+    }
+    
+    .sqr.b5 {
+        background-color: rgb(111, 192, 118)
+    }
+    
+    .sqr.b6 {
+        background-color: rgb(186, 219, 219)
+    }
+    
+    .pageheader {
+        width: 100%;
+    }
+    
+    .filters {
+        float: left;
+        padding-bottom: 5px;
+    }
+    
+    .filterbtn {
+        padding: 5px 10px;
+        float: left;
+        font-size: 0.9rem;
+        font-weight: 500;
+        border-right: 2px solid rgb(230, 230, 230);
+        border-left: 2px solid rgb(230, 230, 230);
+        background-color: rgb(230, 230, 230);
+    }
+    
+    .filterbtn.active {
+        border-right: 2px solid rgb(190, 183, 112);
+        border-left: 2px solid rgb(190, 183, 112);
+        background-color: rgb(219, 217, 200);
+    }
+    
+    .filterbtn:hover {
+        background-color: rgb(202, 183, 143);
+    }
+    
+    #pageheader {
+        float: left;
+        width: 100%;
+    }
+    
+    #pageheader #filters {
+        float: left;
+    }
+    
+    #pageheader #textsearch {
+        float: right;
+    }
+    
+    #JSPPageContent {
+        width: 100%;
+        float: left;
+    }
+    
+    #JSPPageContent #leftdashboard {
+        width: 20%;
+        float: left;
+    }
+    
+    #JSPPageContent #rightdashboard {
+        width: 70%;
+        float: left;
+    }
+    
+    .listoutput {
+        width: 100%;
+    }
+    
+    .listoutput thead th {
+        font-size: 0.85rem;
+        font-weight: 600;
+        padding-top: 5px;
+        padding-bottom: 5px;
+        padding-left: 5px;
+    }
+    
+    .down {
+        background-image: linear-gradient(to bottom, #fff, #fff, #d8d8d8);
+    }
+    
+    .up {
+        background-image: linear-gradient(to bottom, #d8d8d8, #fff, #fff);
+    }
+    
+    .listoutput thead tr {
+        border-bottom: 2px solid grey;
+        border-top: 2px solid grey;
+    }
+    
+    .listoutput tbody tr {
+        border-bottom: 1px solid silver;
+    }
+    
+    .clickable {
+        cursor: pointer;
+    }
+    
+    .cell0 {
+        color: rgb(76, 103, 126);
+        font-size: 1.25rem;
+    }
+    
+    .clickable:hover {
+        background-color: whitesmoke;
+        color: rgb(26, 31, 31);
+    }
+</style>
+
+<div id='JSPPageContent'>
+    <h3>Active reports in production or awaiting approval</h3>
+    <div id='pageheader'>
+        <div id='filters'></div>
+        <div id='textsearch'><label>Filter: </label> <input id="inputfilter" type="text" autocomplete="off" /></div>
+    </div>
+    <div id='ActivelistContent'>table</div>
+    <br/><br/><br/>
+    <h3>Report Archive</h3>
+    <div id='CompletedlistContent'>table</div>
+</div>
+<div id='debuginfo'></div>
+<div id='versioninfo' data-page="author"></div>
+<i class="fas fa-filter"></i>

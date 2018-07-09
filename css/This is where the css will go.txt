@@ -1,0 +1,1 @@
+Trivial page CSS can go in the page HTML file

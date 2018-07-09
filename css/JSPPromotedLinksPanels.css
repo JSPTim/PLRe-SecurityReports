@@ -1,0 +1,161 @@
+#sideNavBox {
+    display: none;
+}
+
+#contentBox {
+    margin-left: 25px;
+}
+
+.ms-promlink-body {
+    width: 480px!important;
+}
+
+
+/*display rows of 3 items*/
+
+.ms-promlink-header {
+    display: none;
+}
+
+
+/*hide the arrows when you have more items than viewable*/
+
+.ui-tabs-nav {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    font-size: 1.2em;
+    font-weight: bolder;
+}
+
+.ui-tabs-nav li {
+    float: left;
+    padding: 10px;
+    width: 24%;
+    margin-bottom: 0px;
+    background-color: #D7D5D5;
+    border-left: 1px solid gray;
+}
+
+.ui-tabs-nav .ui-state-active {
+    background-color: #1B2952;
+}
+
+.ui-tabs-nav .ui-state-active a {
+    color: #fff;
+}
+
+.PLPContainer1 {
+    display: none;
+}
+
+.PLPPanel {
+    width: 150px;
+    height: 150px;
+    margin-right: 10px;
+    margin-bottom: 10px;
+    padding: 5px;
+    overflow: hidden;
+    background-color: #2f2b41;
+    float: left;
+    position: relative;
+}
+
+.PLPPanel.RO {
+    background-color: #909090;
+}
+
+.PLPPanel.break {
+    clear: left;
+}
+
+.PLPPanel img {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+}
+
+p.PLPTitle {
+    color: #FFFFFF;
+    font-size: 1.2em;
+    position: absolute;
+    line-height: 1.1;
+}
+
+.PLPInfo {
+    color: #FFFFFF;
+    font-size: 0.9em;
+    line-height: 0.8em;
+    text-align: right;
+    padding: 0px 5px 5px 0px;
+    position: absolute;
+    bottom: 0px;
+    right: 0px;
+}
+
+.PLPPanel:hover .PLPSlideUp.top {
+    top: 0px;
+}
+
+
+/*  when .item:hover, show overlay.overwrite .item-overlay."position" */
+
+.PLPSlideUp {
+    /* by default, overlay is visible… */
+    position: absolute;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    color: #fff;
+    overflow: hidden;
+    font-style: italic;
+    text-align: center;
+    width: 100%;
+    padding: 28px 5px 3px 5px;
+    -moz-transition: top 0.4s;
+    -webkit-transition: top 0.4s;
+    transition: top 0.4s;
+}
+
+.PLPSlideUp.top {
+    top: 80%;
+}
+
+
+/* …but this will hide it */
+
+* {
+    -moz-box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+    margin: 0;
+}
+
+
+/* misc. CSS */
+
+ul.dynamic .ms-core-listMenu-item {
+    height: 25px;
+    width: 230px;
+    vertical-align: middle;
+}
+
+ul.dynamic .ms-core-listMenu-item:hover {
+    background-color: whitesmoke;
+    width: 210px;
+}
+
+.ms-core-listMenu-horizontalBox ul.dynamic {
+    width: 230px !important;
+}
+
+h4.red {
+    color: #A02020;
+    font-weight: 700;
+}
+
+h4.amber {
+    color: goldenrod;
+    font-weight: 600;
+}

@@ -1,0 +1,104 @@
+.listoutput {
+    width: 100%;
+}
+
+.listoutput tbody tr {
+    height: 1.4rem;
+    vertical-align: top;
+    border-bottom: 1px solid silver;
+}
+
+.listoutput tbody tr:hover {
+    background-color: rgb(215, 216, 228);
+}
+
+.listoutput tbody tr.preview {
+    border-bottom: 3px solid rgb(146, 1, 1);
+    border-top: 3px solid rgb(146, 1, 1);
+}
+
+.listoutput td .stackedcell {
+    font-style: italic;
+    font-weight: 500;
+}
+
+.listoutput td.featuredcell {
+    font-weight: 600;
+}
+
+.listoutput thead th {
+    font-size: 0.85rem;
+    font-weight: 600;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 2px;
+    text-align: left;
+}
+
+
+
+.down {
+    background-image: linear-gradient(to bottom, #fff, #fff, #d8d8d8);
+}
+
+.up {
+    background-image: linear-gradient(to bottom, #d8d8d8, #fff, #fff);
+}
+
+.listoutput thead tr {
+    border-bottom: 2px solid rgb(78, 78, 78);
+    border-top: 2px solid grey;
+}
+
+.clickable {
+    cursor: pointer;
+}
+
+.cell0 {
+    color: rgb(76, 103, 126);
+    font-size: 1.25rem;
+}
+
+.clickable:hover {
+    background-color: whitesmoke;
+    color: rgb(26, 31, 31);
+}
+
+.listoutput tbody td span {
+    display: block;
+    padding: 2px 0px;
+}
+
+.listoutput tbody td span#endorserspan {
+    border-bottom: 0.5px solid rgb(231, 231, 231);
+}
+
+.listoutput tbody td span#secauthoriserspan {
+    border-top: 0.5px solid rgb(231, 231, 231);
+}
+
+.listoutput tbody td.rightalign {
+    text-align: right;
+    padding-right: 10px;
+}
+
+.listoutput tbody tr {
+    height: 1.4rem;
+    vertical-align: top;
+}
+
+.listoutput tbody td span.current {
+    color: darkred;
+}
+
+.listoutput tbody td span.pending {
+    color: rgb(48, 31, 2);
+}
+
+.listoutput tbody td span.completed {
+    color: rgb(16, 83, 1);
+}
+
+.listoutput tfoot tr {
+    font-size: 1 rem;
+}

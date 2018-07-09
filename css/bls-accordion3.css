@@ -1,0 +1,98 @@
+﻿.accordioncontainer{
+	max-width:650px;
+}
+
+.accordioncontainer .block {
+    background: #f4f4f6;
+	font-family: "Gill Sans MT" !important;
+}
+
+.accordioncontainer .block .collapsible {
+	display: block;
+	overflow: hidden;
+}
+
+.accordioncontainer .block .accordionblock {
+	display: block;
+	overflow: hidden;
+	border-bottom:1px solid grey;
+}
+
+.accordioncontainer .block .accordion-title {
+    background: #d8d8d8;
+    background: -ms-linear-gradient(#f0f0f0, #c8c8c8);
+	background: linear-gradient(#f0f0f0, #c8c8c8);
+ 	color: #004990;
+ 	font-size:1.2em;
+ 	font-weight:bold;
+ 	padding:5px 0px 5px 10px;
+ 	border-top: 1px solid silver;
+}
+
+.accordionitem {
+	margin: 5px; 
+	clear: both;
+	display: block;
+	font-size: 12px !important;
+	overflow: hidden;
+	height:69px;
+}
+
+
+.accordionitem:hover {
+	cursor: pointer;
+	opacity: .5;
+	transition: .3s ease;
+}
+
+
+.accordionitem .imagecontainer {
+	float: left; 
+	margin: 5px 10px 5px 20px;
+	height: 100px;
+	width: 160px;
+	overflow: hidden;
+}
+.accordionitem .imagecontainer img {
+	height: 100%;
+	width: 100%;
+}
+
+.accordionitem .detailcontainer {
+	margin-left:5px;
+	display:table-cell;
+}
+
+.accordionitem .detailcontainer span {
+	color: #777;
+	font-size: 12px;
+	font-family: "Gill Sans MT" !important;
+}
+
+.accordionitem .date {
+	float: right;
+	font-weight:bolder;
+}
+
+.accordionitem h3 {
+	font-size:1.3em;
+	font-weight:bold;
+}
+
+
+.accordionitem .summary {
+	text-transform:lowercase;
+	font-style:italic;
+}
+
+.ArticleHeaderBar{
+	margin-top:-26px;
+}
+      .tablerow{display:table-row;}
+      .tablerow .tablecell1{display:table-cell; width:75%; vertical-align:top;}
+      .tablerow .tablecell2{display:table-cell; width:25%; vertical-align:top;}
+      .tablerow p{margin:2px 0px 2px 0px; line-height:1.1;}
+
+
+
+

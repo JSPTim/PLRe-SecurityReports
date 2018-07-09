@@ -1,0 +1,553 @@
+#sideNavBox {
+    DISPLAY: none
+}
+
+#contentBox {
+    MARGIN-LEFT: 25px
+}
+
+.ms-formlabel {
+    padding: 4px 5px 3px 0;
+}
+
+.ms-formbody {
+    padding: 4px 5px 3px 0;
+}
+
+.bar {
+    float: left;
+    font-size: 2em;
+    text-align: center;
+}
+
+  .onethird {
+    width: 33%;
+    float: left;
+    padding: 5px;
+  }
+
+    .filterpopup {
+        display: none;
+        position: absolute;
+        width: 250px;
+        background-color: rgb(234, 243, 247);
+        border: 2px solid rgb(94, 99, 104);
+        font-size: 0.75rem;
+        border-radius: 5px;
+        margin: 30px;
+        padding: 5px 10px;
+    }
+    
+    .active {
+        color: rgb(180, 1, 1);
+        font-weight: 900;
+    }
+    
+    .number {
+        text-align: right;
+        padding-right: 15px;
+        font-weight: 500;
+    }
+    
+    .numbernototal {
+        text-align: right;
+        padding-right: 15px;
+        font-weight: 500;
+    }
+    
+    .listoutput tbody tr {
+        height: 1.4rem;
+    }
+    
+    .listoutput tbody tr:hover {
+        background-color: rgb(193, 195, 216);
+    }
+    
+    .editLink {
+        font-weight: 600;
+        cursor: pointer;
+    }
+    
+    #scriptWPQ3 i {
+        Color: rgb(167, 3, 3);
+    }
+    
+    .multiselect {
+        width: 95%;
+        overflow: auto;
+        font-size: 0.9rem;
+        font-weight: 600;
+        border: 1px solid silver;
+    }
+    
+  
+    
+    .multiselect h2 {
+        padding: 5px;
+    }
+    
+    .multiselect label {
+        display: block;
+        padding: 5px;
+        color: #505050;
+        background-color: rgba(43, 37, 71, 0.1);
+        border-top: 1px solid gainsboro;
+    }
+    
+    .multiselect label.multiselect-on {
+        color: #ffffff;
+        background-color: rgba(43, 37, 71, 0.6);
+    }
+    
+    .filtered-out {
+        display: none;
+    }
+    
+    .sqr {
+        border: 2px solid silver;
+        height: 25px;
+        width: 25px;
+        border-radius: 7px;
+        float: left;
+        margin: 1px 5px 1px 1px;
+    }
+    
+    .sqr.b1 {
+        background-color: rgb(186, 219, 219)
+    }
+    
+    .sqr.b2 {
+        background-color: rgb(92, 201, 201)
+    }
+    
+    .sqr.b3 {
+        background-color: rgb(51, 115, 139)
+    }
+    
+    .sqr.b4 {
+        background-color: rgb(202, 181, 62)
+    }
+    
+    .sqr.b5 {
+        background-color: rgb(111, 192, 118)
+    }
+    
+    .sqr.b6 {
+        background-color: rgb(186, 219, 219)
+    }
+    
+    .pageheader {
+        width: 100%;
+    }
+    
+    .filters {
+        float: left;
+        padding-bottom: 5px;
+    }
+    
+    .filterbtn {
+        padding: 5px 10px;
+        float: left;
+        font-size: 0.9rem;
+        font-weight: 500;
+        border-right: 2px solid rgb(230, 230, 230);
+        border-left: 2px solid rgb(230, 230, 230);
+        background-color: rgb(230, 230, 230);
+    }
+    
+    .filterbtn.active {
+        border-right: 2px solid rgb(190, 183, 112);
+        border-left: 2px solid rgb(190, 183, 112);
+        background-color: rgb(219, 217, 200);
+    }
+    
+    .filterbtn:hover {
+        background-color: rgb(202, 183, 143);
+    }
+    
+    #pageheader {
+        float: left;
+        width: 100%;
+    }
+    
+    #pageheader #filters {
+        float: left;
+    }
+    
+    #pageheader #textsearch {
+        float: right;
+    }
+    
+    #JSPPageContent {
+        width: 100%;
+        float: left;
+    }
+    
+    #JSPPageContent #leftdashboard {
+        width: 20%;
+        float: left;
+    }
+    
+    #JSPPageContent #rightdashboard {
+        width: 70%;
+        float: left;
+    }
+    
+    .listoutput {
+        width: 100%;
+    }
+    
+    .listoutput thead th {
+        font-size: 0.85rem;
+        font-weight: 600;
+        padding-top: 5px;
+        padding-bottom: 5px;
+        padding-left: 5px;
+    }
+    
+    .down {
+        background-image: linear-gradient(to bottom, #fff, #fff, #d8d8d8);
+    }
+    
+    .up {
+        background-image: linear-gradient(to bottom, #d8d8d8, #fff, #fff);
+    }
+    
+    .listoutput thead tr {
+        border-bottom: 2px solid grey;
+        border-top: 2px solid grey;
+    }
+    
+    .listoutput tbody tr {
+        border-bottom: 1px solid silver;
+    }
+    
+    .clickable {
+        cursor: pointer;
+    }
+    
+    .cell0 {
+        color: rgb(76, 103, 126);
+        font-size: 1.25rem;
+    }
+    
+    .clickable:hover {
+        background-color: whitesmoke;
+        color: rgb(26, 31, 31);
+    }
+
+
+
+
+
+
+.cabicon {
+    font-size: 1.3rem;
+    text-align:center;
+    vertical-align: middle;
+    float:left;
+    border: 2px solid silver;
+    background-color:white;
+    border-radius: 5px;
+    width: 35px;
+    height:35px;
+    margin: 0 5px 2px 0;
+}
+
+
+
+.iRed {
+    color: #951740;
+}
+
+.iAmber {
+    color: #d88220;
+}
+
+.iGreen {
+    color: #1f9b61;
+}
+
+.iBlue {
+    color: #4d5c88;
+}
+
+.iGrey {
+    color: #929c9c;
+}
+
+
+.timebaritem {
+    float: left;
+    height: 30px;
+    min-width: 0.5%;
+    border-right: 1px solid grey;
+}
+
+.Stage1-0 {
+    background-color: #addfeb;
+    color: #000000;
+}
+
+.Stage2-0{
+    background-color: #3c5f79;
+    color: #ffffff;
+}
+
+.Stage2-1 {
+    background-color: #951740;
+    color: #000000;
+}
+
+
+
+.Stage3-0 {
+    background-color: #f49025;
+    color: #ffffff;
+}
+
+.Stage4-0 {
+    background-color: #63be60;
+    color: #ffffff;
+}
+
+
+
+
+
+table td .right {
+    text-align: right;
+    padding-right: 7px;
+    width: 30%;
+}
+
+table td .left {
+    text-align: left;
+    padding-right: 7px;
+    width: 70%;
+}
+
+.theader {
+    float: left;
+    width: 100%
+}
+
+.tleft {
+    float: left;
+    width: 50%;
+}
+
+.tright {
+    float: left;
+    width: 49%;
+}
+
+.crtable {
+    width: 100%;
+    font-weight: 600;
+    text-align: left;
+}
+
+.crtable td {
+    padding: 3px;
+}
+
+.crtable .tcol1 {
+    font-weight: 700;
+    text-align: right;
+    width: 15%;
+    color: rgb(92, 16, 16);
+}
+
+.crtable .tcol2 {
+    width: 35%;
+}
+
+.crtable .tcol3 {
+    font-weight: 700;
+    text-align: right;
+    width: 15%;
+    color: rgb(92, 16, 16);
+}
+
+.crtable .tcol4 {
+    width: 35%;
+}
+
+h3 #historytoggle {
+    cursor: pointer;
+}
+
+span#itemedit {
+    cursor: pointer;
+    display: inline-block;
+    margin-top: 5px;
+    background-color: #e0e0e0;
+    padding: 5px 20px;
+    border: 1px solid grey;
+    font-size: 1.0rem;
+    font-weight: 600;
+}
+
+span#itemedit:hover {
+    background-color: #d0d0d0;
+    border: 1px solid darkgray;
+}
+
+#CRItemhistory {
+    max-width: 1800px;
+    float: left;
+    display: none;
+    margin-top: 10px;
+    overflow-x: scroll;
+}
+
+#CRItemhistory .historyblock {
+    width: 7000px;
+    float: left;
+    padding: 10px;
+    background-color: gainsboro;
+}
+
+#CRItemhistory .historyblock span {
+    padding: 0;
+}
+
+#CRItemhistory .historyitem {
+    width: 250px;
+    float: left;
+    background-color: #F5F5F5;
+    border-top: 2px solid white;
+    border-bottom: 2px solid white;
+    padding: 2px 2px;
+}
+
+#CRItemhistory .historyitem.Email {
+    background-color: rgb(212, 247, 248);
+    border-top: 2px solid rgb(82, 89, 105);
+    border-bottom: 2px solid rgb(82, 89, 105);
+}
+
+#CRItemhistory table tbody {
+    vertical-align: top;
+}
+
+#CRItemhistory .historyitem .cardnumber {
+    width: 1.5rem;
+    height: 1.5rem;
+    text-align: center;
+    font-size: 1.2rem;
+    float: right;
+    color: #F5F5F5;
+    background-color: rgb(13, 62, 77);
+    border-radius: 15%;
+}
+
+#CRItemhistory .historyitem .stageheader {
+    width: 95%;
+    padding: 3px 0 3px 5px;
+    float: left;
+    margin: 0 0 2px 0;
+    font-weight: bold;
+    height: 1.2rem;
+    overflow: hidden;
+}
+
+#CRItemhistory .historyitem .cardusername {
+    float: left;
+    text-align: right;
+    font-size: 0.8rem;
+    font-weight: 700;
+    padding: 5px;
+    font-style: italic;
+    width: 85%;
+}
+
+#CRItemhistory .historyitem table {
+    padding-top: 5px;
+    font-size: 0.65rem;
+    font-weight: 500;
+}
+
+#CRItemhistory .arrow {
+    float: left;
+    margin: 40px 5px 0px 5px;
+    color: rgb(21, 64, 65);
+}
+
+#crdesc,
+#crreason {
+    max-height: 100px;
+    overflow-y: auto;
+}
+
+#floater {
+    display: none;
+    position: absolute;
+    width: 250px;
+    background-color: rgb(234, 243, 247);
+    border: 2px solid rgb(161, 164, 168);
+    font-size: 0.80rem;
+    border-radius: 4px;
+    margin: 10px;
+}
+
+#floater h3 {
+    font-size: 0.9rem;
+    color: rgb(255, 255, 255);
+    background-color: rgb(15, 71, 73);
+    border-bottom: 1px solid rgb(6, 22, 37);
+    font-weight: 600;
+    text-align: center;
+    padding: 2px;
+    border-top-left-radius: 4px;
+    border-top-right-radius: 4px;
+}
+
+#floater div {
+    font-style: italic;
+    font-weight: 400;
+    padding: 6px;
+}
+
+.featuredcell {
+cursor: pointer;
+font-weight:bolder;
+
+}
+
+.formtab {
+    padding:2px 4px;
+    font-size:1.1rem;
+    font-weight:700;
+    background-color: rgb(182, 202, 202);
+    border-bottom: 2px solid white;
+    display: inline-block;
+    width:100%;
+    cursor:Pointer;
+}
+
+#sorttable table tr.formRow td.ms-formbody span {
+    vertical-align: top;
+}
+
+.formcellfield {
+    display:inline-block;
+    padding: 0 20px 0 0px;
+}
+
+.cellTitle {
+    font-weight: bolder;
+}
+
+#formleft {
+    width: 50%;
+}
+
+#formright {
+    width: 50%;
+}
+
+
+
+

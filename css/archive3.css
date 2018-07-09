@@ -1,0 +1,80 @@
+﻿
+/* ====================== ARCHIVE  ======================= */
+
+
+h1, h2, h3, h4, h5 {
+	font-weight: bold !important;
+	font-family: "Segoe UI","Segoe",Tahoma,Helvetica,Arial,sans-serif !important;
+}
+
+.contentcontainer {
+	padding-top: 10px;
+	padding-left: 10%;
+	padding-right: 10%;
+	/*max-height: 440px;
+	overflow-y: scroll;
+	overflow-x: hidden;*/
+}
+
+
+.HomepageColumnTitle{	
+	float: left;
+	width: 97%;
+	background-color: #D0E4F7;
+	font-family: "Segoe UI","Segoe",Tahoma,Helvetica,Arial,sans-serif;
+    font-size: 13px;
+    text-transform: uppercase;
+    color: #004990;
+   	padding: 10px;
+	margin-bottom: 0px;
+	}
+
+.ui-tabs-nav {
+	list-style-type: none;
+	margin-top: -24px;
+	padding: 0;
+}
+
+.ui-tabs-nav li {
+	float: left;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	padding-left: 3.3%;
+	width: 30%;
+	margin-bottom: 10px;
+	background-color: #D0E4F7;
+	text-transform: uppercase;
+}
+
+.ui-tabs-nav .ui-state-active {
+	background-color: #004990;
+}
+
+.ui-tabs-nav .ui-state-active a {
+	color: #fff;
+}
+
+.ui-tabs-nav .ui-state-active a {
+	color: #fff;
+}
+
+
+.Articlecontainer {
+	padding: 10px;
+}
+
+.ui-tabs-panel .ms-webpart-chrome-title {
+	display: none;
+}
+
+.ArticleHeaderBar{
+    float: left;
+    padding: 10px;
+    width: 100%;
+    margin-bottom: 0px;
+    background-color: #D0E4F7;
+    text-transform: uppercase;
+    font-family: "Segoe UI","Segoe",Tahoma,Helvetica,Arial,sans-serif;
+    font-size: 13px;
+    color: #004990
+}

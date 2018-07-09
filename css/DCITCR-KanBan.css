@@ -1,0 +1,194 @@
+#sideNavBox {
+    DISPLAY: none
+}
+
+#contentBox {
+    MARGIN-LEFT: 25px
+}
+
+.personalFilters {
+    display: none;
+}
+
+.kanbancontainer {
+    float: left;
+    width: calc(100% - 140px);
+}
+
+.kanbanbucket {
+    float: left;
+    width: 15.5%;
+    margin-right: 1%;
+    min-width: 200px;
+    max-width: 30%;
+}
+
+.kanbanbucket i {
+    font-size: 1.8rem;
+    padding: 3px 0;
+    color: #002;
+}
+
+.kanbanbucket .kanbancard i {
+    font-size: 1.4rem;
+    border: 1px solid white;
+    border-radius: 6px;
+    padding: 2px;
+}
+
+.kanbanbucket span {
+    display: block;
+    font-size: 1.2em;
+    font-weight: bolder;
+    text-align: center;
+}
+
+.kanbancard {
+    background-color: gainsboro;
+    font-size: 0.9em;
+    text-align: left;
+    margin-top: 3px;
+    float: left;
+    width: 100%;
+    overflow: hidden;
+}
+
+.kanbancard .itemtop {
+    min-height: 40px;
+    font-weight: bold;
+    font-size: 0.95em;
+    float: left;
+    width: 98%;
+    border-bottom: 1px solid grey;
+    padding: 2px 3px;
+}
+
+.kanbancard .itemtop .crno {
+    font-weight: bolder;
+    font-size: 1rem;
+    cursor: pointer;
+    width: 80%;
+    float: left
+}
+
+.kanbancard .itemtop .crstatus {
+    font-weight: bold;
+    width: 19%;
+    text-align: right;
+    float: left;
+    cursor: pointer;
+}
+
+.kanbancard .itemtop .crtitle {
+    clear: both;
+    width: 100%;
+    font-weight: 600;
+    font-size: 0.8rem;
+    cursor: pointer;
+}
+
+.kanbancard .itemtop .crstatus.cRed i {
+    background-color: #cc1010;
+    color: white;
+}
+
+.kanbancard .itemtop .crstatus.cAmber i {
+    background-color: #d0a010;
+    color: white;
+}
+
+.kanbancard .itemtop .crstatus.cGreen i {
+    background-color: #30d030;
+    color: white;
+}
+
+.kanbancard .datatitle {
+    font-weight: bolder;
+    font-size: 0.9em;
+    text-align: right;
+    padding: 2px 3px 2px 2px;
+    min-width: 70px;
+}
+
+.kanbancard .dataline {
+    padding: 2px 3px 2px 2px;
+    max-width: 200px;
+}
+
+.barchart {
+    float: left;
+    min-width: 110px;
+    max-width: 130px;
+}
+
+.barchart p {
+    font-size: 1.25rem;
+}
+
+.bar.awr,
+.bar.ccr {
+    background-color: #520909;
+    color: #F0F0F0;
+}
+
+.bar {
+    margin: 5px;
+    padding: 5px;
+    border-right: 3px solid white;
+    cursor: pointer;
+    text-align: middle;
+    font-size: 1.5rem;
+}
+
+.bar.clicked {
+    background-color: silver;
+    color: #F0F0F0;
+}
+
+.bar:hover {
+    border-right: 3px solid silver;
+    transition-duration: 1500;
+}
+
+.Stage1 {
+    background-color: #addfeb;
+    color: #000000;
+}
+
+.Stage2 {
+    background-color: #22c0f1;
+    color: #000000;
+}
+
+.Stage3 {
+    background-color: #b36aac;
+    color: #000000;
+}
+
+.Stage4 {
+    background-color: #f49025;
+    color: #000000;
+}
+
+.Stage5 {
+    background-color: #63be60;
+    color: #000000;
+}
+
+.Stage6 {
+    background-color: #3681b5;
+    color: #F0F0F0;
+}
+
+.Stage7 {
+    background-color: #676868;
+    color: #F0F0F0;
+}
+
+.kanbancard .itemcontent tr {
+    vertical-align: top;
+}
+
+.kanbancard .itemcontent {
+    display: none;
+}

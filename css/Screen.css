@@ -1,0 +1,34 @@
+﻿.ms-siteicon-img {
+	margin-left: -10px;
+	margin-top: -10px;
+	margin-right: 10px;
+}
+
+.ms-breadcrumb-top {
+	background: #eee;
+	width: 100%;
+}
+
+.ms-breadcrumb-top .ms-core-listMenu-root {
+	display: block;
+}
+
+.ms-breadcrumb-top .ms-core-listMenu-root li {
+	padding: 0 10px;
+}
+
+.ms-breadcrumb-top .ms-core-listMenu-root li a {
+
+	font-size: 16px;
+}
+
+
+.ms-breadcrumb-top .ms-core-listMenu-root li ul {
+	box-shadow: none !important;
+	background: #eee;
+	border: none !important;
+}
+
+.ms-breadcrumb-top .ms-core-listMenu-root li ul li {
+	padding: 10px 0;
+}
