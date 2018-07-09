@@ -1,0 +1,33 @@
+{
+  "name": "PLRe-SecurityReports",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "ava"
+  },
+  "ava": {
+    "files": [
+        "js/Utilities/*.test.js"
+    ],
+    "require": [
+        "babel-register"
+    ],
+    "babel": "inherit"
+},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JSPTim/PLRe-SecurityReports.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JSPTim/PLRe-SecurityReports/issues"
+  },
+  "homepage": "https://github.com/JSPTim/PLRe-SecurityReports#readme",
+  "devDependencies": {
+    "ava": "^0.25.0",
+    "babel-preset-env": "^1.7.0"
+  }
+}
